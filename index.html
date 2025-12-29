@@ -34,6 +34,11 @@
     <!-- Canonical URL -->
     <link rel="canonical" href="https://apps.microsoft.com/store/detail/9P94416WP5C8?cid=DevShareMCLPCS">
 
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
     <!-- Stylesheet -->
     <link rel="stylesheet" href="assets/css/styles.css">
 
@@ -142,6 +147,19 @@
                         <path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/>
                     </svg>
                     <span>Быстрая конвертация</span>
+                </div>
+                <div class="hero__floating-badge badge-3">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M18.36 6.64a9 9 0 1 1-12.73 0"/>
+                        <line x1="12" y1="2" x2="12" y2="12"/>
+                    </svg>
+                    <span>100% Offline</span>
+                </div>
+                <div class="hero__floating-badge badge-4">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 2v20M2 12h20"/>
+                    </svg>
+                    <span>Без лимитов</span>
                 </div>
             </div>
         </div>
@@ -279,15 +297,15 @@
             <div class="formats__content">
                 <div class="format-content active" data-content="images">
                     <div class="format-badges">
-                        <span class="format-badge">PNG</span>
-                        <span class="format-badge">JPG</span>
-                        <span class="format-badge">JPEG</span>
-                        <span class="format-badge">WebP</span>
-                        <span class="format-badge">BMP</span>
-                        <span class="format-badge">TIFF</span>
-                        <span class="format-badge">GIF</span>
-                        <span class="format-badge">SVG</span>
-                        <span class="format-badge">ICO</span>
+                        <span class="format-badge format-badge--image">PNG</span>
+                        <span class="format-badge format-badge--image">JPG</span>
+                        <span class="format-badge format-badge--image">JPEG</span>
+                        <span class="format-badge format-badge--image">WebP</span>
+                        <span class="format-badge format-badge--image">BMP</span>
+                        <span class="format-badge format-badge--image">TIFF</span>
+                        <span class="format-badge format-badge--image">GIF</span>
+                        <span class="format-badge format-badge--image">SVG</span>
+                        <span class="format-badge format-badge--image">ICO</span>
                     </div>
                     <p class="format-description">
                         Конвертируйте между всеми популярными форматами изображений. Изменяйте размер,
@@ -297,13 +315,13 @@
 
                 <div class="format-content" data-content="documents">
                     <div class="format-badges">
-                        <span class="format-badge">PDF</span>
-                        <span class="format-badge">DOCX</span>
-                        <span class="format-badge">PPTX</span>
-                        <span class="format-badge">TXT</span>
-                        <span class="format-badge">RTF</span>
-                        <span class="format-badge">HTML</span>
-                        <span class="format-badge">Markdown</span>
+                        <span class="format-badge format-badge--document">PDF</span>
+                        <span class="format-badge format-badge--document">DOCX</span>
+                        <span class="format-badge format-badge--document">PPTX</span>
+                        <span class="format-badge format-badge--document">TXT</span>
+                        <span class="format-badge format-badge--document">RTF</span>
+                        <span class="format-badge format-badge--document">HTML</span>
+                        <span class="format-badge format-badge--document">Markdown</span>
                     </div>
                     <p class="format-description">
                         Профессиональная конвертация документов с сохранением форматирования.
@@ -313,10 +331,10 @@
 
                 <div class="format-content" data-content="data">
                     <div class="format-badges">
-                        <span class="format-badge">XLSX</span>
-                        <span class="format-badge">XLS</span>
-                        <span class="format-badge">CSV</span>
-                        <span class="format-badge">JSON</span>
+                        <span class="format-badge format-badge--data">XLSX</span>
+                        <span class="format-badge format-badge--data">XLS</span>
+                        <span class="format-badge format-badge--data">CSV</span>
+                        <span class="format-badge format-badge--data">JSON</span>
                     </div>
                     <p class="format-description">
                         Конвертируйте табличные данные между Excel, CSV и JSON.
@@ -326,17 +344,17 @@
 
                 <div class="format-content" data-content="media">
                     <div class="format-badges">
-                        <span class="format-badge">MP4</span>
-                        <span class="format-badge">AVI</span>
-                        <span class="format-badge">MKV</span>
-                        <span class="format-badge">MOV</span>
-                        <span class="format-badge">WebM</span>
-                        <span class="format-badge">WMV</span>
-                        <span class="format-badge">MP3</span>
-                        <span class="format-badge">WAV</span>
-                        <span class="format-badge">FLAC</span>
-                        <span class="format-badge">AAC</span>
-                        <span class="format-badge">OGG</span>
+                        <span class="format-badge format-badge--media">MP4</span>
+                        <span class="format-badge format-badge--media">AVI</span>
+                        <span class="format-badge format-badge--media">MKV</span>
+                        <span class="format-badge format-badge--media">MOV</span>
+                        <span class="format-badge format-badge--media">WebM</span>
+                        <span class="format-badge format-badge--media">WMV</span>
+                        <span class="format-badge format-badge--media">MP3</span>
+                        <span class="format-badge format-badge--media">WAV</span>
+                        <span class="format-badge format-badge--media">FLAC</span>
+                        <span class="format-badge format-badge--media">AAC</span>
+                        <span class="format-badge format-badge--media">OGG</span>
                     </div>
                     <p class="format-description">
                         Конвертация видео и аудио файлов с использованием FFmpeg.
@@ -624,7 +642,6 @@
             </div>
             <div class="footer__bottom">
                 <p>&copy; 2025 HorusL. Все права защищены.</p>
-                <p class="footer__tech">Сделано с использованием .NET 8 и WPF</p>
             </div>
         </div>
     </footer>
