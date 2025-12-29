@@ -121,9 +121,30 @@
                 <a href="https://apps.microsoft.com/store/detail/9P94416WP5C8?cid=DevShareMCLPCS" class="btn btn--primary" target="_blank" rel="noopener" data-i18n="nav.download">
                     Скачать сейчас
                 </a>
+                <!-- Mobile Menu Toggle -->
+                <button class="mobile-menu-toggle" id="mobileMenuToggle" aria-label="Toggle menu">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
             </div>
         </nav>
     </header>
+
+    <!-- Mobile Navigation -->
+    <div class="mobile-nav" id="mobileNav">
+        <ul class="mobile-nav__menu">
+            <li><a href="#features" class="mobile-nav__link" data-i18n="nav.features">Возможности</a></li>
+            <li><a href="#formats" class="mobile-nav__link" data-i18n="nav.formats">Форматы</a></li>
+            <li><a href="#video" class="mobile-nav__link" data-i18n="nav.video">Видео</a></li>
+            <li><a href="#pricing" class="mobile-nav__link" data-i18n="nav.pricing">Цена</a></li>
+            <li>
+                <a href="https://apps.microsoft.com/store/detail/9P94416WP5C8?cid=DevShareMCLPCS" class="btn btn--primary btn--full" target="_blank" rel="noopener" data-i18n="nav.download">
+                    Скачать сейчас
+                </a>
+            </li>
+        </ul>
+    </div>
 
     <!-- Hero Section -->
     <section class="hero">
@@ -673,7 +694,7 @@
                 </div>
             </div>
             <div class="footer__bottom">
-                <p>&copy; 2025 HorusL. Все права защищены.</p>
+                <p data-i18n="footer.copyright">&copy; 2025 HorusL. Все права защищены.</p>
             </div>
         </div>
     </footer>

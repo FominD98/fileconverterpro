@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+    <!-- English (Default) -->
+    <url>
+        <loc>https://yoursite.com/en</loc>
+        <lastmod>2025-12-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://yoursite.com/ru"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://yoursite.com/es"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://yoursite.com/fr"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://yoursite.com/de"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://yoursite.com/it"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://yoursite.com/pt"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://yoursite.com/pl"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://yoursite.com/nl"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yoursite.com/tr"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://yoursite.com/uk"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://yoursite.com/ja"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://yoursite.com/ko"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://yoursite.com/ar"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://yoursite.com/hi"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://yoursite.com/en"/>
+    </url>
+
+    <!-- Russian -->
+    <url>
+        <loc>https://yoursite.com/ru</loc>
+        <lastmod>2025-12-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://yoursite.com/ru"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://yoursite.com/es"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://yoursite.com/fr"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://yoursite.com/de"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://yoursite.com/it"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://yoursite.com/pt"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://yoursite.com/pl"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://yoursite.com/nl"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yoursite.com/tr"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://yoursite.com/uk"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://yoursite.com/ja"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://yoursite.com/ko"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://yoursite.com/ar"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://yoursite.com/hi"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://yoursite.com/en"/>
+    </url>
+
+    <!-- Spanish -->
+    <url>
+        <loc>https://yoursite.com/es</loc>
+        <lastmod>2025-12-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://yoursite.com/ru"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://yoursite.com/es"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://yoursite.com/fr"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://yoursite.com/de"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://yoursite.com/it"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://yoursite.com/pt"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://yoursite.com/pl"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://yoursite.com/nl"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yoursite.com/tr"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://yoursite.com/uk"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://yoursite.com/ja"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://yoursite.com/ko"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://yoursite.com/ar"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://yoursite.com/hi"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://yoursite.com/en"/>
+    </url>
+
+    <!-- French -->
+    <url>
+        <loc>https://yoursite.com/fr</loc>
+        <lastmod>2025-12-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://yoursite.com/ru"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://yoursite.com/es"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://yoursite.com/fr"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://yoursite.com/de"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://yoursite.com/it"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://yoursite.com/pt"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://yoursite.com/pl"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://yoursite.com/nl"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yoursite.com/tr"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://yoursite.com/uk"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://yoursite.com/ja"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://yoursite.com/ko"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://yoursite.com/ar"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://yoursite.com/hi"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://yoursite.com/en"/>
+    </url>
+
+    <!-- German -->
+    <url>
+        <loc>https://yoursite.com/de</loc>
+        <lastmod>2025-12-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://yoursite.com/ru"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://yoursite.com/es"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://yoursite.com/fr"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://yoursite.com/de"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://yoursite.com/it"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://yoursite.com/pt"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://yoursite.com/pl"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://yoursite.com/nl"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yoursite.com/tr"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://yoursite.com/uk"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://yoursite.com/ja"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://yoursite.com/ko"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://yoursite.com/ar"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://yoursite.com/hi"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://yoursite.com/en"/>
+    </url>
+
+    <!-- Italian -->
+    <url>
+        <loc>https://yoursite.com/it</loc>
+        <lastmod>2025-12-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://yoursite.com/ru"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://yoursite.com/es"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://yoursite.com/fr"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://yoursite.com/de"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://yoursite.com/it"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://yoursite.com/pt"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://yoursite.com/pl"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://yoursite.com/nl"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yoursite.com/tr"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://yoursite.com/uk"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://yoursite.com/ja"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://yoursite.com/ko"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://yoursite.com/ar"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://yoursite.com/hi"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://yoursite.com/en"/>
+    </url>
+
+    <!-- Portuguese -->
+    <url>
+        <loc>https://yoursite.com/pt</loc>
+        <lastmod>2025-12-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://yoursite.com/ru"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://yoursite.com/es"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://yoursite.com/fr"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://yoursite.com/de"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://yoursite.com/it"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://yoursite.com/pt"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://yoursite.com/pl"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://yoursite.com/nl"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yoursite.com/tr"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://yoursite.com/uk"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://yoursite.com/ja"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://yoursite.com/ko"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://yoursite.com/ar"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://yoursite.com/hi"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://yoursite.com/en"/>
+    </url>
+
+    <!-- Polish -->
+    <url>
+        <loc>https://yoursite.com/pl</loc>
+        <lastmod>2025-12-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://yoursite.com/ru"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://yoursite.com/es"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://yoursite.com/fr"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://yoursite.com/de"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://yoursite.com/it"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://yoursite.com/pt"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://yoursite.com/pl"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://yoursite.com/nl"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yoursite.com/tr"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://yoursite.com/uk"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://yoursite.com/ja"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://yoursite.com/ko"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://yoursite.com/ar"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://yoursite.com/hi"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://yoursite.com/en"/>
+    </url>
+
+    <!-- Dutch -->
+    <url>
+        <loc>https://yoursite.com/nl</loc>
+        <lastmod>2025-12-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://yoursite.com/ru"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://yoursite.com/es"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://yoursite.com/fr"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://yoursite.com/de"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://yoursite.com/it"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://yoursite.com/pt"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://yoursite.com/pl"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://yoursite.com/nl"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yoursite.com/tr"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://yoursite.com/uk"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://yoursite.com/ja"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://yoursite.com/ko"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://yoursite.com/ar"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://yoursite.com/hi"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://yoursite.com/en"/>
+    </url>
+
+    <!-- Turkish -->
+    <url>
+        <loc>https://yoursite.com/tr</loc>
+        <lastmod>2025-12-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://yoursite.com/ru"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://yoursite.com/es"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://yoursite.com/fr"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://yoursite.com/de"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://yoursite.com/it"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://yoursite.com/pt"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://yoursite.com/pl"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://yoursite.com/nl"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yoursite.com/tr"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://yoursite.com/uk"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://yoursite.com/ja"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://yoursite.com/ko"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://yoursite.com/ar"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://yoursite.com/hi"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://yoursite.com/en"/>
+    </url>
+
+    <!-- Ukrainian -->
+    <url>
+        <loc>https://yoursite.com/uk</loc>
+        <lastmod>2025-12-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://yoursite.com/ru"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://yoursite.com/es"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://yoursite.com/fr"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://yoursite.com/de"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://yoursite.com/it"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://yoursite.com/pt"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://yoursite.com/pl"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://yoursite.com/nl"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yoursite.com/tr"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://yoursite.com/uk"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://yoursite.com/ja"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://yoursite.com/ko"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://yoursite.com/ar"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://yoursite.com/hi"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://yoursite.com/en"/>
+    </url>
+
+    <!-- Japanese -->
+    <url>
+        <loc>https://yoursite.com/ja</loc>
+        <lastmod>2025-12-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://yoursite.com/ru"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://yoursite.com/es"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://yoursite.com/fr"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://yoursite.com/de"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://yoursite.com/it"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://yoursite.com/pt"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://yoursite.com/pl"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://yoursite.com/nl"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yoursite.com/tr"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://yoursite.com/uk"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://yoursite.com/ja"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://yoursite.com/ko"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://yoursite.com/ar"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://yoursite.com/hi"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://yoursite.com/en"/>
+    </url>
+
+    <!-- Korean -->
+    <url>
+        <loc>https://yoursite.com/ko</loc>
+        <lastmod>2025-12-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://yoursite.com/ru"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://yoursite.com/es"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://yoursite.com/fr"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://yoursite.com/de"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://yoursite.com/it"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://yoursite.com/pt"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://yoursite.com/pl"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://yoursite.com/nl"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yoursite.com/tr"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://yoursite.com/uk"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://yoursite.com/ja"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://yoursite.com/ko"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://yoursite.com/ar"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://yoursite.com/hi"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://yoursite.com/en"/>
+    </url>
+
+    <!-- Chinese Simplified -->
+    <url>
+        <loc>https://yoursite.com/zh</loc>
+        <lastmod>2025-12-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://yoursite.com/ru"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://yoursite.com/es"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://yoursite.com/fr"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://yoursite.com/de"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://yoursite.com/it"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://yoursite.com/pt"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://yoursite.com/pl"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://yoursite.com/nl"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yoursite.com/tr"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://yoursite.com/uk"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://yoursite.com/ja"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://yoursite.com/ko"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://yoursite.com/ar"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://yoursite.com/hi"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://yoursite.com/en"/>
+    </url>
+
+    <!-- Arabic -->
+    <url>
+        <loc>https://yoursite.com/ar</loc>
+        <lastmod>2025-12-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://yoursite.com/ru"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://yoursite.com/es"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://yoursite.com/fr"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://yoursite.com/de"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://yoursite.com/it"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://yoursite.com/pt"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://yoursite.com/pl"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://yoursite.com/nl"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yoursite.com/tr"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://yoursite.com/uk"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://yoursite.com/ja"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://yoursite.com/ko"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://yoursite.com/ar"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://yoursite.com/hi"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://yoursite.com/en"/>
+    </url>
+
+    <!-- Hindi -->
+    <url>
+        <loc>https://yoursite.com/hi</loc>
+        <lastmod>2025-12-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://yoursite.com/ru"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://yoursite.com/es"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://yoursite.com/fr"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://yoursite.com/de"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://yoursite.com/it"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://yoursite.com/pt"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://yoursite.com/pl"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://yoursite.com/nl"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yoursite.com/tr"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://yoursite.com/uk"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://yoursite.com/ja"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://yoursite.com/ko"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://yoursite.com/ar"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://yoursite.com/hi"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://yoursite.com/en"/>
+    </url>
+
+</urlset>

@@ -1,0 +1,45 @@
+# robots.txt for File Converter Pro Landing Page
+
+# Allow all search engines to crawl all content
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://yoursite.com/sitemap.xml
+
+# Allow all language versions
+Allow: /en
+Allow: /ru
+Allow: /es
+Allow: /fr
+Allow: /de
+Allow: /it
+Allow: /pt
+Allow: /pl
+Allow: /nl
+Allow: /tr
+Allow: /uk
+Allow: /ja
+Allow: /ko
+Allow: /zh
+Allow: /ar
+Allow: /hi
+
+# Disallow admin or private areas (if any)
+# Disallow: /admin
+# Disallow: /private
+
+# Crawl-delay (optional, remove if not needed)
+# Crawl-delay: 1
+
+# Specific rules for Googlebot (optional)
+User-agent: Googlebot
+Allow: /
+
+# Specific rules for Bingbot (optional)
+User-agent: Bingbot
+Allow: /
+
+# Block bad bots (optional)
+# User-agent: BadBot
+# Disallow: /

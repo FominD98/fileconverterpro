@@ -1,0 +1,5 @@
+# Netlify redirects file for File Converter Pro
+# https://docs.netlify.com/routing/redirects/
+
+# Redirect all routes to index.html for SPA
+/*    /index.html   200

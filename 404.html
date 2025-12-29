@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecting...</title>
+    <script>
+        // GitHub Pages SPA Redirect Script
+        // This script captures the requested path and redirects to index.html
+        // with the path stored in sessionStorage for the app to restore
+
+        (function() {
+            var pathSegmentsToKeep = 0; // Set to 1 if using custom domain with subdirectory
+
+            var location = window.location;
+            var path = location.pathname.slice(1);
+
+            // Redirect all paths to index.html with path info in query
+            if (path) {
+                var segments = path.split('/').slice(pathSegmentsToKeep);
+                var redirect = location.protocol + '//' + location.host +
+                    (pathSegmentsToKeep > 0 ? '/' + path.split('/').slice(0, pathSegmentsToKeep).join('/') + '/' : '/') +
+                    '?p=/' + segments.join('/');
+
+                // Redirect to index.html with path in query parameter
+                window.location.replace(redirect);
+            }
+        })();
+    </script>
+</head>
+<body>
+    <div style="font-family: Arial, sans-serif; text-align: center; padding: 50px;">
+        <h1>Redirecting...</h1>
+        <p>Please wait while we redirect you to the correct page.</p>
+    </div>
+</body>
+</html>
