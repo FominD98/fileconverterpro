@@ -299,12 +299,134 @@ function validateEmail(email) {
 }
 
 // ============================================
+// Language Switching
+// ============================================
+let currentLanguage = getCurrentLanguage();
+
+// Get value from nested object using dot notation (e.g., 'nav.features')
+function getNestedValue(obj, path) {
+    return path.split('.').reduce((current, key) => current?.[key], obj);
+}
+
+// Apply translations to the page
+function applyTranslations(lang) {
+    const translation = translations[lang];
+    if (!translation) {
+        console.error(`Translation for ${lang} not found`);
+        return;
+    }
+
+    // Update all elements with data-i18n attribute
+    document.querySelectorAll('[data-i18n]').forEach(element => {
+        const key = element.getAttribute('data-i18n');
+        const value = getNestedValue(translation, key);
+
+        if (value) {
+            // Check if element is an input/textarea
+            if (element.tagName === 'INPUT' || element.tagName === 'TEXTAREA') {
+                element.placeholder = value;
+            } else {
+                element.innerHTML = value;
+            }
+        }
+    });
+
+    // Update page title and meta tags
+    if (translation.hero && translation.hero.title) {
+        document.title = translation.hero.title.replace(/<[^>]*>/g, '') + ' - File Converter Pro';
+    }
+
+    // Update language button
+    const langCodes = {
+        'en-US': 'EN',
+        'ru-RU': 'RU',
+        'es-ES': 'ES',
+        'fr-FR': 'FR',
+        'de-DE': 'DE',
+        'it-IT': 'IT',
+        'pt-PT': 'PT',
+        'pl-PL': 'PL',
+        'nl-NL': 'NL',
+        'tr-TR': 'TR',
+        'uk-UA': 'UK',
+        'ja-JP': 'JA',
+        'ko-KR': 'KO',
+        'zh-CN': 'ZH',
+        'ar-SA': 'AR',
+        'hi-IN': 'HI'
+    };
+    const currentLangEl = document.getElementById('currentLang');
+    if (currentLangEl) {
+        currentLangEl.textContent = langCodes[lang] || 'EN';
+    }
+
+    // Update HTML lang attribute
+    document.documentElement.lang = lang.split('-')[0];
+
+    // Store current language
+    setLanguage(lang);
+    currentLanguage = lang;
+
+    console.log(`Language changed to: ${lang}`);
+}
+
+// Initialize language selector
+function initLanguageSelector() {
+    const languageBtn = document.getElementById('languageBtn');
+    const languageDropdown = document.getElementById('languageDropdown');
+    const languageOptions = document.querySelectorAll('.language-option');
+
+    if (!languageBtn || !languageDropdown) return;
+
+    // Toggle dropdown
+    languageBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        languageDropdown.classList.toggle('active');
+    });
+
+    // Close dropdown when clicking outside
+    document.addEventListener('click', () => {
+        languageDropdown.classList.remove('active');
+    });
+
+    // Language selection
+    languageOptions.forEach(option => {
+        option.addEventListener('click', (e) => {
+            e.stopPropagation();
+            const selectedLang = option.getAttribute('data-lang');
+
+            // Update active state
+            languageOptions.forEach(opt => opt.classList.remove('active'));
+            option.classList.add('active');
+
+            // Apply translations
+            applyTranslations(selectedLang);
+
+            // Close dropdown
+            languageDropdown.classList.remove('active');
+
+            // Track language change
+            trackEvent('language', 'change', selectedLang);
+        });
+
+        // Set active language
+        if (option.getAttribute('data-lang') === currentLanguage) {
+            option.classList.add('active');
+        }
+    });
+
+    // Apply current language on load
+    applyTranslations(currentLanguage);
+}
+
+// ============================================
 // Initialize Everything
 // ============================================
 function init() {
     console.log('File Converter Pro Landing Page - Initializing...');
 
     // Initialize all features
+    initLanguageSelector();
     initFormatTabs();
     initFAQ();
     initVideoPlayer();

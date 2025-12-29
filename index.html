@@ -42,6 +42,9 @@
     <!-- Stylesheet -->
     <link rel="stylesheet" href="assets/css/styles.css">
 
+    <!-- Translations -->
+    <script src="assets/js/translations.js"></script>
+
     <!-- Schema.org markup for Google -->
     <script type="application/ld+json">
     {
@@ -82,14 +85,43 @@
                 <span class="nav__logo-text">File Converter Pro</span>
             </div>
             <ul class="nav__menu">
-                <li><a href="#features" class="nav__link">Возможности</a></li>
-                <li><a href="#formats" class="nav__link">Форматы</a></li>
-                <li><a href="#video" class="nav__link">Видео</a></li>
-                <li><a href="#pricing" class="nav__link">Цена</a></li>
+                <li><a href="#features" class="nav__link" data-i18n="nav.features">Возможности</a></li>
+                <li><a href="#formats" class="nav__link" data-i18n="nav.formats">Форматы</a></li>
+                <li><a href="#video" class="nav__link" data-i18n="nav.video">Видео</a></li>
+                <li><a href="#pricing" class="nav__link" data-i18n="nav.pricing">Цена</a></li>
             </ul>
-            <a href="https://apps.microsoft.com/store/detail/9P94416WP5C8?cid=DevShareMCLPCS" class="btn btn--primary" target="_blank" rel="noopener">
-                Скачать сейчас
-            </a>
+            <div class="nav__actions">
+                <div class="language-selector">
+                    <button class="language-btn" id="languageBtn">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <circle cx="12" cy="12" r="10"/>
+                            <path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
+                        </svg>
+                        <span id="currentLang">RU</span>
+                    </button>
+                    <div class="language-dropdown" id="languageDropdown">
+                        <button class="language-option" data-lang="en-US">🇬🇧 English</button>
+                        <button class="language-option" data-lang="ru-RU">🇷🇺 Русский</button>
+                        <button class="language-option" data-lang="es-ES">🇪🇸 Español</button>
+                        <button class="language-option" data-lang="fr-FR">🇫🇷 Français</button>
+                        <button class="language-option" data-lang="de-DE">🇩🇪 Deutsch</button>
+                        <button class="language-option" data-lang="it-IT">🇮🇹 Italiano</button>
+                        <button class="language-option" data-lang="pt-PT">🇵🇹 Português</button>
+                        <button class="language-option" data-lang="pl-PL">🇵🇱 Polski</button>
+                        <button class="language-option" data-lang="nl-NL">🇳🇱 Nederlands</button>
+                        <button class="language-option" data-lang="tr-TR">🇹🇷 Türkçe</button>
+                        <button class="language-option" data-lang="uk-UA">🇺🇦 Українська</button>
+                        <button class="language-option" data-lang="ja-JP">🇯🇵 日本語</button>
+                        <button class="language-option" data-lang="ko-KR">🇰🇷 한국어</button>
+                        <button class="language-option" data-lang="zh-CN">🇨🇳 简体中文</button>
+                        <button class="language-option" data-lang="ar-SA">🇸🇦 العربية</button>
+                        <button class="language-option" data-lang="hi-IN">🇮🇳 हिन्दी</button>
+                    </div>
+                </div>
+                <a href="https://apps.microsoft.com/store/detail/9P94416WP5C8?cid=DevShareMCLPCS" class="btn btn--primary" target="_blank" rel="noopener" data-i18n="nav.download">
+                    Скачать сейчас
+                </a>
+            </div>
         </nav>
     </header>
 
@@ -97,42 +129,42 @@
     <section class="hero">
         <div class="container hero__container">
             <div class="hero__content">
-                <h1 class="hero__title">
+                <h1 class="hero__title" data-i18n="hero.title">
                     Универсальный <span class="highlight">Offline</span> Конвертер Файлов для Windows
                 </h1>
-                <p class="hero__subtitle">
+                <p class="hero__subtitle" data-i18n="hero.subtitle">
                     Конвертируйте 32+ форматов файлов локально на вашем компьютере.
                     Полная приватность, без облака, без ограничений размера.
                 </p>
                 <div class="hero__stats">
                     <div class="stat">
                         <span class="stat__number">32+</span>
-                        <span class="stat__label">Форматов</span>
+                        <span class="stat__label" data-i18n="hero.stats.formats">Форматов</span>
                     </div>
                     <div class="stat">
                         <span class="stat__number">100%</span>
-                        <span class="stat__label">Offline</span>
+                        <span class="stat__label" data-i18n="hero.stats.offline">Offline</span>
                     </div>
                     <div class="stat">
                         <span class="stat__number">∞</span>
-                        <span class="stat__label">Без лимитов</span>
+                        <span class="stat__label" data-i18n="hero.stats.unlimited">Без лимитов</span>
                     </div>
                 </div>
                 <div class="hero__cta">
-                    <a href="https://apps.microsoft.com/store/detail/9P94416WP5C8?cid=DevShareMCLPCS" class="btn btn--primary btn--large" target="_blank" rel="noopener">
+                    <a href="https://apps.microsoft.com/store/detail/9P94416WP5C8?cid=DevShareMCLPCS" class="btn btn--primary btn--large" target="_blank" rel="noopener" data-i18n="hero.downloadBtn">
                         <svg class="btn__icon" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
                             <path d="M11.5 3v8.5H3V3h8.5zm0 18H3v-8.5h8.5V21zm1-18H21v8.5h-8.5V3zm0 18v-8.5H21V21h-8.5z"/>
                         </svg>
                         Скачать в Microsoft Store
                     </a>
-                    <a href="#video" class="btn btn--secondary btn--large">
+                    <a href="#video" class="btn btn--secondary btn--large" data-i18n="hero.watchVideoBtn">
                         <svg class="btn__icon" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
                             <path d="M8 5v14l11-7z"/>
                         </svg>
                         Смотреть видео
                     </a>
                 </div>
-                <p class="hero__price">Всего €6.49 • Разовая покупка • Без подписок</p>
+                <p class="hero__price" data-i18n="hero.price">Всего €6.49 • Разовая покупка • Без подписок</p>
             </div>
             <div class="hero__image">
                 <img src="assets/images/dragdrop.png" alt="File Converter Pro Interface - Drag and Drop" class="hero__screenshot">
@@ -140,26 +172,26 @@
                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
                     </svg>
-                    <span>100% Приватность</span>
+                    <span data-i18n="hero.badges.privacy">100% Приватность</span>
                 </div>
                 <div class="hero__floating-badge badge-2">
                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/>
                     </svg>
-                    <span>Быстрая конвертация</span>
+                    <span data-i18n="hero.badges.fast">Быстрая конвертация</span>
                 </div>
                 <div class="hero__floating-badge badge-3">
                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <path d="M18.36 6.64a9 9 0 1 1-12.73 0"/>
                         <line x1="12" y1="2" x2="12" y2="12"/>
                     </svg>
-                    <span>100% Offline</span>
+                    <span data-i18n="hero.badges.offline">100% Offline</span>
                 </div>
                 <div class="hero__floating-badge badge-4">
                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <path d="M12 2v20M2 12h20"/>
                     </svg>
-                    <span>Без лимитов</span>
+                    <span data-i18n="hero.badges.unlimited">Без лимитов</span>
                 </div>
             </div>
         </div>

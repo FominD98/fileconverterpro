@@ -1271,6 +1271,107 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* ============================================
+   Language Selector
+   ============================================ */
+.language-selector {
+    position: relative;
+}
+
+.nav__actions {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-md);
+}
+
+.language-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    background: white;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-lg);
+    color: var(--text-primary);
+    cursor: pointer;
+    transition: all var(--transition-base);
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.language-btn:hover {
+    background: var(--bg-secondary);
+    border-color: var(--primary-color);
+    color: var(--primary-color);
+}
+
+.language-btn svg {
+    width: 20px;
+    height: 20px;
+}
+
+.language-dropdown {
+    position: absolute;
+    top: calc(100% + 0.5rem);
+    right: 0;
+    background: white;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-xl);
+    box-shadow: var(--shadow-xl);
+    padding: 0.5rem;
+    min-width: 180px;
+    z-index: 1000;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-10px);
+    transition: all var(--transition-base);
+}
+
+.language-dropdown.active {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+
+.language-option {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    width: 100%;
+    padding: 0.75rem 1rem;
+    background: transparent;
+    border: none;
+    border-radius: var(--radius-md);
+    color: var(--text-primary);
+    cursor: pointer;
+    transition: all var(--transition-base);
+    font-size: 0.95rem;
+    text-align: left;
+}
+
+.language-option:hover {
+    background: var(--bg-secondary);
+    color: var(--primary-color);
+}
+
+.language-option.active {
+    background: linear-gradient(135deg, rgba(99, 102, 241, 0.1) 0%, rgba(139, 92, 246, 0.1) 100%);
+    color: var(--primary-color);
+    font-weight: 600;
+}
+
+@media (max-width: 768px) {
+    .language-selector {
+        order: -1;
+        margin-right: auto;
+    }
+
+    .language-dropdown {
+        left: 0;
+        right: auto;
+    }
+}
+
+/* ============================================
    Print Styles
    ============================================ */
 @media print {
