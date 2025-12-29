@@ -149,7 +149,7 @@ systemctl restart apache2
 ```nginx
 server {
     listen 80;
-    server_name yoursite.com;
+    server_name fileconverter.store;
     root /path/to/landing-page;
     index index.html;
 
@@ -189,13 +189,13 @@ systemctl reload nginx
 
 **В sitemap.xml:**
 ```xml
-<!-- Замените yoursite.com на ваш домен -->
-<loc>https://yoursite.com/en</loc>
+<!-- Замените fileconverter.store на ваш домен -->
+<loc>https://fileconverter.store/en</loc>
 ```
 
 **В robots.txt:**
 ```
-Sitemap: https://yoursite.com/sitemap.xml
+Sitemap: https://fileconverter.store/sitemap.xml
 ```
 
 **В script.js** (если нужно):
@@ -208,7 +208,7 @@ Sitemap: https://yoursite.com/sitemap.xml
 1. Зайдите в [Google Search Console](https://search.google.com/search-console)
 2. Добавьте ваш сайт
 3. Перейдите в Sitemaps
-4. Отправьте: `https://yoursite.com/sitemap.xml`
+4. Отправьте: `https://fileconverter.store/sitemap.xml`
 
 ---
 
@@ -224,12 +224,12 @@ Sitemap: https://yoursite.com/sitemap.xml
 
 **Google:**
 ```
-site:yoursite.com
+site:fileconverter.store
 ```
 
 **Проверка конкретного языка:**
 ```
-site:yoursite.com/ru
+site:fileconverter.store/ru
 ```
 
 ---
@@ -405,7 +405,7 @@ https://pagespeed.web.dev/
 
 ## ✅ Checklist перед запуском
 
-- [ ] Замените `yoursite.com` на реальный домен в:
+- [ ] Замените `fileconverter.store` на реальный домен в:
   - [ ] sitemap.xml
   - [ ] robots.txt
 - [ ] Загрузите og-image.png (1200x630px)
@@ -413,8 +413,8 @@ https://pagespeed.web.dev/
 - [ ] Обновите Microsoft Store ссылку (если изменилась)
 - [ ] Протестируйте на мобильных (Chrome DevTools)
 - [ ] Отправьте sitemap в Google Search Console
-- [ ] Проверьте robots.txt: `yoursite.com/robots.txt`
-- [ ] Проверьте sitemap: `yoursite.com/sitemap.xml`
+- [ ] Проверьте robots.txt: `fileconverter.store/robots.txt`
+- [ ] Проверьте sitemap: `fileconverter.store/sitemap.xml`
 - [ ] Настройте Google Analytics (если нужно)
 
 ---

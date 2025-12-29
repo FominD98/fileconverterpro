@@ -5,7 +5,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://yoursite.com/sitemap.xml
+Sitemap: https://fileconverter.store/sitemap.xml
 
 # Allow all language versions
 Allow: /en

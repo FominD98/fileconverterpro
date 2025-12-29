@@ -58,7 +58,7 @@ git add .
 git commit -m "Initial commit: Multilingual landing page"
 
 # 2. Создайте репозиторий на GitHub и push
-git remote add origin https://github.com/your-username/file-converter-landing.git
+git remote add origin https://github.com/fomind98/file-converter-landing.git
 git branch -M main
 git push -u origin main
 
@@ -66,7 +66,7 @@ git push -u origin main
 # GitHub → Settings → Pages → Source: GitHub Actions
 ```
 
-**Результат:** `https://your-username.github.io/file-converter-landing/`
+**Результат:** `https://fomind98.github.io/file-converter-landing/`
 
 ---
 
@@ -107,12 +107,12 @@ vercel
 ### URL структура:
 
 ```
-yoursite.com/en  → English (default)
-yoursite.com/ru  → Русский
-yoursite.com/es  → Español
-yoursite.com/fr  → Français
-yoursite.com/de  → Deutsch
-yoursite.com/it  → Italiano
+fileconverter.store/en  → English (default)
+fileconverter.store/ru  → Русский
+fileconverter.store/es  → Español
+fileconverter.store/fr  → Français
+fileconverter.store/de  → Deutsch
+fileconverter.store/it  → Italiano
 ... и еще 10 языков
 ```
 
@@ -182,8 +182,8 @@ yoursite.com/it  → Italiano
 
 2. **Проверьте индексацию:**
    ```
-   site:yoursite.com
-   site:yoursite.com/ru
+   site:fileconverter.store
+   site:fileconverter.store/ru
    ```
 
 **Полный guide:** [SEO_DEPLOYMENT_GUIDE.md](SEO_DEPLOYMENT_GUIDE.md)
@@ -215,13 +215,13 @@ yoursite.com/it  → Italiano
 
 **В `sitemap.xml`:**
 ```xml
-<!-- Замените yoursite.com -->
-<loc>https://yoursite.com/en</loc>
+<!-- Замените fileconverter.store -->
+<loc>https://fileconverter.store/en</loc>
 ```
 
 **В `robots.txt`:**
 ```
-Sitemap: https://yoursite.com/sitemap.xml
+Sitemap: https://fileconverter.store/sitemap.xml
 ```
 
 ---
@@ -233,7 +233,7 @@ Sitemap: https://yoursite.com/sitemap.xml
 1. Переименуйте `CNAME.example` → `CNAME`
 2. Впишите ваш домен:
    ```
-   yoursite.com
+   fileconverter.store
    ```
 3. Настройте DNS (см. [GITHUB_PAGES_GUIDE.md](GITHUB_PAGES_GUIDE.md))
 
@@ -373,8 +373,8 @@ var pathSegmentsToKeep = 1; // Было 0
 
 ## ✅ Checklist перед публикацией
 
-- [ ] Замените `yoursite.com` в sitemap.xml
-- [ ] Замените `yoursite.com` в robots.txt
+- [ ] Замените `fileconverter.store` в sitemap.xml
+- [ ] Замените `fileconverter.store` в robots.txt
 - [ ] Обновите Open Graph image (1200x630px)
 - [ ] Проверьте все переводы
 - [ ] Протестируйте на мобильных

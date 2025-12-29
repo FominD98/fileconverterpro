@@ -4,10 +4,10 @@
 
 GitHub Pages не поддерживает server-side redirects, но мы используем **smart 404 redirect** для SPA:
 
-1. Пользователь заходит на `yoursite.com/ru`
+1. Пользователь заходит на `fileconverter.store/ru`
 2. GitHub Pages возвращает `404.html`
 3. `404.html` перенаправляет на `index.html?p=/ru`
-4. JavaScript восстанавливает правильный URL: `yoursite.com/ru`
+4. JavaScript восстанавливает правильный URL: `fileconverter.store/ru`
 5. Контент загружается на нужном языке
 
 ✅ **Преимущества:**
@@ -46,7 +46,7 @@ git add .
 git commit -m "Initial commit: File Converter Pro landing page"
 
 # Подключите GitHub репозиторий
-git remote add origin https://github.com/ваш-username/file-converter-landing.git
+git remote add origin https://github.com/fomind98/file-converter-landing.git
 
 # Отправьте код
 git branch -M main
@@ -86,7 +86,7 @@ git push
 
 ✅ Ваш сайт будет доступен по адресу:
 ```
-https://ваш-username.github.io/file-converter-landing/
+https://fomind98.github.io/file-converter-landing/
 ```
 
 ---
@@ -139,14 +139,14 @@ jobs:
 
 ### A. Обновите sitemap.xml
 
-Замените `yoursite.com` на ваш GitHub Pages URL:
+Замените `fileconverter.store` на ваш GitHub Pages URL:
 
 ```xml
 <!-- Было: -->
-<loc>https://yoursite.com/en</loc>
+<loc>https://fileconverter.store/en</loc>
 
 <!-- Стало: -->
-<loc>https://ваш-username.github.io/file-converter-landing/en</loc>
+<loc>https://fomind98.github.io/file-converter-landing/en</loc>
 ```
 
 **Для subdirectory** (если репозиторий не в корне):
@@ -164,7 +164,7 @@ var pathSegmentsToKeep = 1; // Было 0, стало 1 для subdirectory
 User-agent: *
 Allow: /
 
-Sitemap: https://ваш-username.github.io/file-converter-landing/sitemap.xml
+Sitemap: https://fomind98.github.io/file-converter-landing/sitemap.xml
 ```
 
 ---
@@ -196,7 +196,7 @@ function updateURL(langCode, replaceState = false) {
 
 2. **Добавьте DNS записи:**
 
-**Вариант A: Apex domain** (yoursite.com):
+**Вариант A: Apex domain** (fileconverter.store):
 ```
 A    @    185.199.108.153
 A    @    185.199.109.153
@@ -204,23 +204,23 @@ A    @    185.199.110.153
 A    @    185.199.111.153
 ```
 
-**Вариант B: Subdomain** (www.yoursite.com):
+**Вариант B: Subdomain** (www.fileconverter.store):
 ```
-CNAME    www    ваш-username.github.io
+CNAME    www    fomind98.github.io
 ```
 
 3. **В GitHub Settings → Pages:**
-   - Custom domain: `yoursite.com` (или `www.yoursite.com`)
+   - Custom domain: `fileconverter.store` (или `www.fileconverter.store`)
    - ✅ Enforce HTTPS
 
 4. **Создайте файл `CNAME`** в корне:
 ```
-yoursite.com
+fileconverter.store
 ```
 
 5. **Обновите sitemap.xml и robots.txt:**
 ```xml
-<loc>https://yoursite.com/en</loc>
+<loc>https://fileconverter.store/en</loc>
 ```
 
 ---
@@ -230,9 +230,9 @@ yoursite.com
 ### 1. Проверьте работу сайта:
 
 ```
-https://ваш-username.github.io/file-converter-landing/
-https://ваш-username.github.io/file-converter-landing/en
-https://ваш-username.github.io/file-converter-landing/ru
+https://fomind98.github.io/file-converter-landing/
+https://fomind98.github.io/file-converter-landing/en
+https://fomind98.github.io/file-converter-landing/ru
 ```
 
 ### 2. Проверьте redirect:
@@ -253,13 +253,13 @@ document.querySelector('meta[name="description"]').content
 ### 4. Проверьте sitemap:
 
 ```
-https://ваш-username.github.io/file-converter-landing/sitemap.xml
+https://fomind98.github.io/file-converter-landing/sitemap.xml
 ```
 
 ### 5. Проверьте robots.txt:
 
 ```
-https://ваш-username.github.io/file-converter-landing/robots.txt
+https://fomind98.github.io/file-converter-landing/robots.txt
 ```
 
 ---
@@ -270,7 +270,7 @@ https://ваш-username.github.io/file-converter-landing/robots.txt
 
 1. Перейдите в [Google Search Console](https://search.google.com/search-console)
 2. **Add Property** → URL prefix
-3. Введите: `https://ваш-username.github.io/file-converter-landing/`
+3. Введите: `https://fomind98.github.io/file-converter-landing/`
 4. Подтвердите через HTML file или meta tag
 5. **Sitemaps** → Add: `sitemap.xml`
 
@@ -387,7 +387,7 @@ git push
 - ✅ HTTPS включен
 - ✅ CDN от GitHub
 
-**URL:** `https://ваш-username.github.io/file-converter-landing/`
+**URL:** `https://fomind98.github.io/file-converter-landing/`
 
 ---
 

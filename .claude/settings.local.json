@@ -3,7 +3,9 @@
     "allow": [
       "Bash(dir \"C:\\\\pet\\\\дубликат\"\" /s /b | findstr /i \"index.html \")",
       "Bash(dir \"C:\\\\pet\\\\дубликат\"\" /b)",
-      "Bash(test:*)"
+      "Bash(test:*)",
+      "Bash(find:*)",
+      "Bash(cat:*)"
     ]
   }
 }
