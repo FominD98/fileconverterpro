@@ -1,0 +1,10 @@
+Продолжаем добавлять data-i18n ко всем элементам.
+
+Осталось добавить:
+1. Format tabs (Изображения, Документы, Данные, Видео & Аудио)
+2. Format descriptions
+3. How it works steps (3 шага)
+4. Pricing card elements
+5. FAQ questions and answers
+6. CTA section
+7. Footer links
