@@ -5,7 +5,10 @@
       "Bash(dir \"C:\\\\pet\\\\дубликат\"\" /b)",
       "Bash(test:*)",
       "Bash(find:*)",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "Bash(git checkout:*)",
+      "Bash(git push:*)",
+      "Bash(git rm:*)"
     ]
   }
 }
