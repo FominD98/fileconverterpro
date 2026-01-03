@@ -406,7 +406,8 @@ function getBrowserLanguage() {
         return langCode;
     }
 
-    return DEFAULT_LANGUAGE;
+    // If browser language not supported, return null to fall back to DEFAULT_LANGUAGE
+    return null;
 }
 
 // Handle GitHub Pages redirect from 404.html
@@ -550,6 +551,17 @@ function applyTranslations(lang, updateURLFlag = true) {
             } else {
                 element.innerHTML = value;
             }
+        }
+    });
+
+    // Update blog links based on language
+    document.querySelectorAll('.blog-link').forEach(blogLink => {
+        if (langCode === 'ru' || langCode === 'ru-RU') {
+            blogLink.href = 'blog/index.html';
+        } else {
+            // For other languages, use blog/{lang}/ structure
+            const blogLangCode = langCode.split('-')[0]; // Get 'en' from 'en-US'
+            blogLink.href = `blog/${blogLangCode}/`;
         }
     });
 

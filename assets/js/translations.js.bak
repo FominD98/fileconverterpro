@@ -332,7 +332,6 @@ features: 'Возможности',
             features: 'Características',
             formats: 'Formatos',
             blog: 'Blog',
-            blog: 'Blog',
             pricing: 'Precio',
             download: 'Descargar ahora'
         },
@@ -341,7 +340,6 @@ features: 'Возможности',
             subtitle: 'Convierta más de 32 formatos de archivos localmente en su computadora. Privacidad total, sin nube, sin límites de tamaño.',
             stats: {
                 formats: 'Formatos',
-            blog: 'Blog',
                 offline: 'Offline',
                 unlimited: 'Sin límites'
             },
@@ -483,12 +481,10 @@ features: 'Возможности',
                 store: 'Microsoft Store',
                 features: 'Características',
                 formats: 'Formatos',
-            blog: 'Blog',
                 pricing: 'Precio'
             },
 features: 'Características',
             formats: 'Formatos',
-            blog: 'Blog',
             pricing: 'Precio',
             copyright: '© 2025 HorusL. Todos los derechos reservados.'
         }
@@ -821,7 +817,6 @@ features: 'Funktionen',
         nav: {
             features: 'Caratteristiche',
             formats: 'Formati',
-            blog: 'Blog',
             video: 'Video',
             pricing: 'Prezzi',
             download: 'Scarica ora'
@@ -831,7 +826,6 @@ features: 'Funktionen',
             subtitle: 'Converti più di 32 formati di file localmente sul tuo computer. Privacy completa, no cloud, nessun limite di dimensione.',
             stats: {
                 formats: 'Formati',
-            blog: 'Blog',
                 offline: 'Offline',
                 unlimited: 'Illimitato'
             },
@@ -973,12 +967,10 @@ features: 'Funktionen',
                 store: 'Microsoft Store',
                 features: 'Caratteristiche',
                 formats: 'Formati',
-            blog: 'Blog',
                 pricing: 'Prezzi'
             },
 features: 'Caratteristiche',
             formats: 'Formati',
-            blog: 'Blog',
             pricing: 'Prezzi',
             copyright: '© 2025 HorusL. Tutti i diritti riservati.'
         }
@@ -987,7 +979,6 @@ features: 'Caratteristiche',
         nav: {
             features: 'Características',
             formats: 'Formatos',
-            blog: 'Blog',
             video: 'Vídeo',
             pricing: 'Preços',
             download: 'Baixar agora'
@@ -997,7 +988,6 @@ features: 'Caratteristiche',
             subtitle: 'Converta mais de 32 formatos de arquivo localmente no seu computador. Privacidade total, sem nuvem, sem limites de tamanho.',
             stats: {
                 formats: 'Formatos',
-            blog: 'Blog',
                 offline: 'Offline',
                 unlimited: 'Ilimitado'
             },
@@ -1139,12 +1129,10 @@ features: 'Caratteristiche',
                 store: 'Microsoft Store',
                 features: 'Características',
                 formats: 'Formatos',
-            blog: 'Blog',
                 pricing: 'Preços'
             },
 features: 'Características',
             formats: 'Formatos',
-            blog: 'Blog',
             pricing: 'Preços',
             copyright: '© 2025 HorusL. Todos os direitos reservados.'
         }
@@ -1639,7 +1627,6 @@ features: 'Özellikler',
         nav: {
             features: 'Можливості',
             formats: 'Формати',
-            blog: 'Блог',
             video: 'Відео',
             pricing: 'Ціна',
             download: 'Завантажити зараз'
@@ -1790,12 +1777,10 @@ features: 'Özellikler',
                 store: 'Microsoft Store',
                 features: 'Можливості',
                 formats: 'Формати',
-            blog: 'Блог',
                 pricing: 'Ціна'
             },
 features: 'Можливості',
             formats: 'Формати',
-            blog: 'Блог',
             pricing: 'Ціна',
             copyright: '© 2025 HorusL. Всі права захищені.'
         }
@@ -1804,7 +1789,6 @@ features: 'Можливості',
         nav: {
             features: '機能',
             formats: '形式',
-            blog: 'ブログ',
             video: 'ビデオ',
             pricing: '価格',
             download: '今すぐダウンロード'
@@ -1955,12 +1939,10 @@ features: 'Можливості',
                 store: 'Microsoft Store',
                 features: '機能',
                 formats: '形式',
-            blog: 'ブログ',
                 pricing: '価格'
             },
 features: '機能',
             formats: '形式',
-            blog: 'ブログ',
             pricing: '価格',
             copyright: '© 2025 HorusL. All rights reserved.'
         }
@@ -1969,7 +1951,6 @@ features: '機能',
         nav: {
             features: '기능',
             formats: '형식',
-            blog: '블로그',
             video: '비디오',
             pricing: '가격',
             download: '지금 다운로드'
@@ -1979,7 +1960,6 @@ features: '機能',
             subtitle: '컴퓨터에서 로컬로 32개 이상의 파일 형식을 변환하세요. 완전한 개인정보 보호, 클라우드 없음, 크기 제한 없음.',
             stats: {
                 formats: '형식',
-            blog: '블로그',
                 offline: '오프라인',
                 unlimited: '무제한'
             },
@@ -2121,12 +2101,10 @@ features: '機能',
                 store: 'Microsoft Store',
                 features: '기능',
                 formats: '형식',
-            blog: '블로그',
                 pricing: '가격'
             },
 features: '기능',
             formats: '형식',
-            blog: '블로그',
             pricing: '가격',
             copyright: '© 2025 HorusL. All rights reserved.'
         }
@@ -2135,7 +2113,6 @@ features: '기능',
         nav: {
             features: '功能',
             formats: '格式',
-            blog: '博客',
             video: '视频',
             pricing: '价格',
             download: '立即下载'
@@ -2145,7 +2122,6 @@ features: '기능',
             subtitle: '在您的计算机上本地转换32种以上文件格式。完全隐私，无云端，无大小限制。',
             stats: {
                 formats: '格式',
-            blog: '博客',
                 offline: '离线',
                 unlimited: '无限制'
             },
@@ -2287,12 +2263,10 @@ features: '기능',
                 store: 'Microsoft Store',
                 features: '功能',
                 formats: '格式',
-            blog: '博客',
                 pricing: '价格'
             },
 features: '功能',
             formats: '格式',
-            blog: '博客',
             pricing: '价格',
             copyright: '© 2025 HorusL. 保留所有权利。'
         }
@@ -2301,7 +2275,6 @@ features: '功能',
         nav: {
             features: 'الميزات',
             formats: 'التنسيقات',
-            blog: 'مدونة',
             video: 'فيديو',
             pricing: 'الأسعار',
             download: 'تحميل الآن'
@@ -2452,12 +2425,10 @@ features: '功能',
                 store: 'Microsoft Store',
                 features: 'الميزات',
                 formats: 'التنسيقات',
-            blog: 'مدونة',
                 pricing: 'الأسعار'
             },
 features: 'الميزات',
             formats: 'التنسيقات',
-            blog: 'مدونة',
             pricing: 'الأسعار',
             copyright: '© 2025 HorusL. جميع الحقوق محفوظة.'
         }
@@ -2628,23 +2599,24 @@ features: 'सुविधाएँ',
 
 // Get browser language
 function getBrowserLanguage() {
-    const browserLang = navigator.language || navigator.userLanguage || 'en-US';
-
-    // Check if we have translations for this exact locale
-    if (translations[browserLang]) {
-        return browserLang;
-    }
-
-    // Try to find a match by language code only (e.g., 'ru' from 'ru-RU')
-    const langCode = browserLang.split('-')[0];
-    for (const locale in translations) {
-        if (locale.startsWith(langCode + '-')) {
-            return locale;
-        }
-    }
-
-    // Default to English if browser language not supported
-    return 'en-US';
+    const lang = navigator.language || navigator.userLanguage;
+    // Map to supported languages
+    if (lang.startsWith('ru')) return 'ru-RU';
+    if (lang.startsWith('es')) return 'es-ES';
+    if (lang.startsWith('fr')) return 'fr-FR';
+    if (lang.startsWith('de')) return 'de-DE';
+    if (lang.startsWith('it')) return 'it-IT';
+    if (lang.startsWith('pt')) return 'pt-PT';
+    if (lang.startsWith('pl')) return 'pl-PL';
+    if (lang.startsWith('nl')) return 'nl-NL';
+    if (lang.startsWith('tr')) return 'tr-TR';
+    if (lang.startsWith('uk')) return 'uk-UA';
+    if (lang.startsWith('ja')) return 'ja-JP';
+    if (lang.startsWith('ko')) return 'ko-KR';
+    if (lang.startsWith('zh')) return 'zh-CN';
+    if (lang.startsWith('ar')) return 'ar-SA';
+    if (lang.startsWith('hi')) return 'hi-IN';
+    return 'en-US'; // Default to English
 }
 
 // Get current language from localStorage or browser
