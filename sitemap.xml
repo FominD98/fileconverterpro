@@ -402,4 +402,513 @@
         <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en"/>
     </url>
 
+    <!-- Blog Homepage - Russian (default) -->
+    <url>
+        <loc>https://fileconverter.store/blog/</loc>
+        <lastmod>2025-01-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://fileconverter.store/blog/pt/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://fileconverter.store/blog/nl/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://fileconverter.store/blog/tr/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://fileconverter.store/blog/ja/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://fileconverter.store/blog/ko/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://fileconverter.store/blog/ar/"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://fileconverter.store/blog/hi/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/"/>
+    </url>
+
+    <!-- Blog Homepage - English -->
+    <url>
+        <loc>https://fileconverter.store/blog/en/</loc>
+        <lastmod>2025-01-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://fileconverter.store/blog/pt/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://fileconverter.store/blog/nl/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://fileconverter.store/blog/tr/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://fileconverter.store/blog/ja/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://fileconverter.store/blog/ko/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://fileconverter.store/blog/ar/"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://fileconverter.store/blog/hi/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/"/>
+    </url>
+
+    <!-- Blog Homepage - Spanish -->
+    <url>
+        <loc>https://fileconverter.store/blog/es/</loc>
+        <lastmod>2025-01-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://fileconverter.store/blog/pt/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://fileconverter.store/blog/nl/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://fileconverter.store/blog/tr/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://fileconverter.store/blog/ja/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://fileconverter.store/blog/ko/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://fileconverter.store/blog/ar/"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://fileconverter.store/blog/hi/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/"/>
+    </url>
+
+    <!-- Blog Homepage - German -->
+    <url>
+        <loc>https://fileconverter.store/blog/de/</loc>
+        <lastmod>2025-01-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://fileconverter.store/blog/pt/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://fileconverter.store/blog/nl/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://fileconverter.store/blog/tr/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://fileconverter.store/blog/ja/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://fileconverter.store/blog/ko/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://fileconverter.store/blog/ar/"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://fileconverter.store/blog/hi/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/"/>
+    </url>
+
+    <!-- Blog Homepage - French -->
+    <url>
+        <loc>https://fileconverter.store/blog/fr/</loc>
+        <lastmod>2025-01-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://fileconverter.store/blog/pt/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://fileconverter.store/blog/nl/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://fileconverter.store/blog/tr/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://fileconverter.store/blog/ja/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://fileconverter.store/blog/ko/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://fileconverter.store/blog/ar/"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://fileconverter.store/blog/hi/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/"/>
+    </url>
+
+    <!-- Blog Homepage - Italian -->
+    <url>
+        <loc>https://fileconverter.store/blog/it/</loc>
+        <lastmod>2025-01-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://fileconverter.store/blog/pt/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://fileconverter.store/blog/nl/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://fileconverter.store/blog/tr/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://fileconverter.store/blog/ja/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://fileconverter.store/blog/ko/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://fileconverter.store/blog/ar/"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://fileconverter.store/blog/hi/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/"/>
+    </url>
+
+    <!-- Blog Homepage - Portuguese -->
+    <url>
+        <loc>https://fileconverter.store/blog/pt/</loc>
+        <lastmod>2025-01-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://fileconverter.store/blog/pt/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://fileconverter.store/blog/nl/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://fileconverter.store/blog/tr/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://fileconverter.store/blog/ja/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://fileconverter.store/blog/ko/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://fileconverter.store/blog/ar/"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://fileconverter.store/blog/hi/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/"/>
+    </url>
+
+    <!-- Blog Homepage - Polish, Dutch, Turkish, Ukrainian, Japanese, Korean, Chinese, Arabic, Hindi -->
+    <url>
+        <loc>https://fileconverter.store/blog/pl/</loc>
+        <lastmod>2025-01-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://fileconverter.store/blog/pt/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://fileconverter.store/blog/nl/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://fileconverter.store/blog/tr/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://fileconverter.store/blog/ja/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://fileconverter.store/blog/ko/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://fileconverter.store/blog/ar/"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://fileconverter.store/blog/hi/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/"/>
+    </url>
+
+    <url>
+        <loc>https://fileconverter.store/blog/nl/</loc>
+        <lastmod>2025-01-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://fileconverter.store/blog/pt/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://fileconverter.store/blog/nl/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://fileconverter.store/blog/tr/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://fileconverter.store/blog/ja/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://fileconverter.store/blog/ko/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://fileconverter.store/blog/ar/"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://fileconverter.store/blog/hi/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/"/>
+    </url>
+
+    <url>
+        <loc>https://fileconverter.store/blog/tr/</loc>
+        <lastmod>2025-01-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://fileconverter.store/blog/pt/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://fileconverter.store/blog/nl/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://fileconverter.store/blog/tr/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://fileconverter.store/blog/ja/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://fileconverter.store/blog/ko/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://fileconverter.store/blog/ar/"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://fileconverter.store/blog/hi/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/"/>
+    </url>
+
+    <url>
+        <loc>https://fileconverter.store/blog/uk/</loc>
+        <lastmod>2025-01-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://fileconverter.store/blog/pt/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://fileconverter.store/blog/nl/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://fileconverter.store/blog/tr/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://fileconverter.store/blog/ja/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://fileconverter.store/blog/ko/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://fileconverter.store/blog/ar/"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://fileconverter.store/blog/hi/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/"/>
+    </url>
+
+    <url>
+        <loc>https://fileconverter.store/blog/ja/</loc>
+        <lastmod>2025-01-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://fileconverter.store/blog/pt/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://fileconverter.store/blog/nl/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://fileconverter.store/blog/tr/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://fileconverter.store/blog/ja/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://fileconverter.store/blog/ko/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://fileconverter.store/blog/ar/"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://fileconverter.store/blog/hi/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/"/>
+    </url>
+
+    <url>
+        <loc>https://fileconverter.store/blog/ko/</loc>
+        <lastmod>2025-01-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://fileconverter.store/blog/pt/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://fileconverter.store/blog/nl/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://fileconverter.store/blog/tr/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://fileconverter.store/blog/ja/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://fileconverter.store/blog/ko/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://fileconverter.store/blog/ar/"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://fileconverter.store/blog/hi/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/"/>
+    </url>
+
+    <url>
+        <loc>https://fileconverter.store/blog/zh/</loc>
+        <lastmod>2025-01-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://fileconverter.store/blog/pt/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://fileconverter.store/blog/nl/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://fileconverter.store/blog/tr/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://fileconverter.store/blog/ja/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://fileconverter.store/blog/ko/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://fileconverter.store/blog/ar/"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://fileconverter.store/blog/hi/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/"/>
+    </url>
+
+    <url>
+        <loc>https://fileconverter.store/blog/ar/</loc>
+        <lastmod>2025-01-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://fileconverter.store/blog/pt/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://fileconverter.store/blog/nl/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://fileconverter.store/blog/tr/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://fileconverter.store/blog/ja/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://fileconverter.store/blog/ko/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://fileconverter.store/blog/ar/"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://fileconverter.store/blog/hi/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/"/>
+    </url>
+
+    <url>
+        <loc>https://fileconverter.store/blog/hi/</loc>
+        <lastmod>2025-01-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://fileconverter.store/blog/pt/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://fileconverter.store/blog/nl/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://fileconverter.store/blog/tr/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://fileconverter.store/blog/ja/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://fileconverter.store/blog/ko/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://fileconverter.store/blog/ar/"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://fileconverter.store/blog/hi/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/"/>
+    </url>
+
+    <!-- Complete File Conversion Guide 2025 - Russian -->
+    <url>
+        <loc>https://fileconverter.store/blog/guides/complete-file-conversion-guide-2025/</loc>
+        <lastmod>2025-01-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://fileconverter.store/blog/pt/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://fileconverter.store/blog/nl/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://fileconverter.store/blog/tr/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://fileconverter.store/blog/ja/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://fileconverter.store/blog/ko/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://fileconverter.store/blog/ar/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://fileconverter.store/blog/hi/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/guides/complete-file-conversion-guide-2025/"/>
+    </url>
+
+    <!-- PDF Conversion Complete Guide - Russian -->
+    <url>
+        <loc>https://fileconverter.store/blog/guides/pdf-conversion-complete-guide/</loc>
+        <lastmod>2025-01-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://fileconverter.store/blog/pt/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://fileconverter.store/blog/nl/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://fileconverter.store/blog/tr/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://fileconverter.store/blog/ja/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://fileconverter.store/blog/ko/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://fileconverter.store/blog/ar/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://fileconverter.store/blog/hi/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/guides/pdf-conversion-complete-guide/"/>
+    </url>
+
+    <!-- How to Convert DOCX to PDF - Russian -->
+    <url>
+        <loc>https://fileconverter.store/blog/how-to/convert-docx-to-pdf/</loc>
+        <lastmod>2025-01-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.85</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/how-to/convert-docx-to-pdf/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/how-to/convert-docx-to-pdf/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/how-to/convert-docx-to-pdf/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/how-to/convert-docx-to-pdf/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/how-to/convert-docx-to-pdf/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/how-to/convert-docx-to-pdf/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://fileconverter.store/blog/pt/how-to/convert-docx-to-pdf/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/how-to/convert-docx-to-pdf/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://fileconverter.store/blog/nl/how-to/convert-docx-to-pdf/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://fileconverter.store/blog/tr/how-to/convert-docx-to-pdf/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/how-to/convert-docx-to-pdf/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://fileconverter.store/blog/ja/how-to/convert-docx-to-pdf/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://fileconverter.store/blog/ko/how-to/convert-docx-to-pdf/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/how-to/convert-docx-to-pdf/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://fileconverter.store/blog/ar/how-to/convert-docx-to-pdf/"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://fileconverter.store/blog/hi/how-to/convert-docx-to-pdf/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/how-to/convert-docx-to-pdf/"/>
+    </url>
+
+    <!-- Article: Image Conversion Guide (RU) -->
+    <url>
+        <loc>https://fileconverter.store/blog/guides/image-conversion-guide/</loc>
+        <lastmod>2025-01-03</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.85</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/guides/image-conversion-guide/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/guides/image-conversion-guide/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/guides/image-conversion-guide/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/guides/image-conversion-guide/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/guides/image-conversion-guide/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/guides/image-conversion-guide/"/>
+    </url>
+
+    <!-- Article: Video and Audio Conversion Guide (RU) -->
+    <url>
+        <loc>https://fileconverter.store/blog/guides/video-audio-conversion-guide/</loc>
+        <lastmod>2025-01-03</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.85</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/guides/video-audio-conversion-guide/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/guides/video-audio-conversion-guide/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/guides/video-audio-conversion-guide/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/guides/video-audio-conversion-guide/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/guides/video-audio-conversion-guide/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/guides/video-audio-conversion-guide/"/>
+    </url>
+
+    <!-- Article: How to Convert PDF to Word (RU) -->
+    <url>
+        <loc>https://fileconverter.store/blog/how-to/convert-pdf-to-word/</loc>
+        <lastmod>2025-01-03</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.85</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/how-to/convert-pdf-to-word/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/how-to/convert-pdf-to-word/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/how-to/convert-pdf-to-word/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/how-to/convert-pdf-to-word/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/how-to/convert-pdf-to-word/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/how-to/convert-pdf-to-word/"/>
+    </url>
+
 </urlset>
