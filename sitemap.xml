@@ -869,6 +869,30 @@
         <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/how-to/convert-docx-to-pdf/"/>
     </url>
 
+    <!-- How to Convert HEIC to JPG on Windows 11 - Russian -->
+    <url>
+        <loc>https://fileconverter.store/blog/how-to/convert-heic-to-jpg-windows-11/</loc>
+        <lastmod>2025-01-03</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.85</priority>
+    </url>
+
+    <!-- How to Convert WebP to JPG on Windows - Russian -->
+    <url>
+        <loc>https://fileconverter.store/blog/how-to/convert-webp-to-jpg-windows/</loc>
+        <lastmod>2025-01-03</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.85</priority>
+    </url>
+
+    <!-- How to Batch Convert Files - Russian -->
+    <url>
+        <loc>https://fileconverter.store/blog/how-to/batch-convert-files/</loc>
+        <lastmod>2025-01-03</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.85</priority>
+    </url>
+
     <!-- Article: Image Conversion Guide (RU) -->
     <url>
         <loc>https://fileconverter.store/blog/guides/image-conversion-guide/</loc>
