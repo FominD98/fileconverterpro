@@ -430,15 +430,20 @@ function getInitialLanguage() {
     return getLanguageFromURL() || getSavedLanguage() || getBrowserLanguage() || DEFAULT_LANGUAGE;
 }
 
-// Update URL using History API
+// Navigate to dedicated language URL
 function updateURL(langCode, replaceState = false) {
-    const newPath = `/${langCode}`;
-    const newURL = window.location.origin + newPath + window.location.search + window.location.hash;
+    const newPath = `/${langCode}/`;
+    const currentPath = window.location.pathname.endsWith('/') ? window.location.pathname : `${window.location.pathname}/`;
 
+    if (currentPath === newPath) {
+        return;
+    }
+
+    const newURL = window.location.origin + newPath + window.location.search + window.location.hash;
     if (replaceState) {
-        window.history.replaceState({ language: langCode }, '', newURL);
+        window.location.replace(newURL);
     } else {
-        window.history.pushState({ language: langCode }, '', newURL);
+        window.location.assign(newURL);
     }
 }
 
@@ -504,7 +509,7 @@ function updateHreflangTags() {
         const link = document.createElement('link');
         link.rel = 'alternate';
         link.hreflang = langCode;
-        link.href = `${baseURL}/${langCode}`;
+        link.href = `${baseURL}/${langCode}/`;
         document.head.appendChild(link);
     });
 
@@ -512,7 +517,7 @@ function updateHreflangTags() {
     const defaultLink = document.createElement('link');
     defaultLink.rel = 'alternate';
     defaultLink.hreflang = 'x-default';
-    defaultLink.href = `${baseURL}/${DEFAULT_LANGUAGE}`;
+    defaultLink.href = `${baseURL}/`;
     document.head.appendChild(defaultLink);
 }
 
@@ -524,7 +529,7 @@ function updateCanonicalURL(langCode) {
         canonical.rel = 'canonical';
         document.head.appendChild(canonical);
     }
-    canonical.href = `${window.location.origin}/${langCode}`;
+    canonical.href = `${window.location.origin}/${langCode}/`;
 }
 
 // Apply translations to the page
@@ -557,11 +562,11 @@ function applyTranslations(lang, updateURLFlag = true) {
     // Update blog links based on language
     document.querySelectorAll('.blog-link').forEach(blogLink => {
         if (langCode === 'ru' || langCode === 'ru-RU') {
-            blogLink.href = 'blog/index.html';
+            blogLink.href = '/blog/index.html';
         } else {
             // For other languages, use blog/{lang}/ structure
             const blogLangCode = langCode.split('-')[0]; // Get 'en' from 'en-US'
-            blogLink.href = `blog/${blogLangCode}/`;
+            blogLink.href = `/blog/${blogLangCode}/`;
         }
     });
 
@@ -627,17 +632,17 @@ function initLanguageSelector() {
             languageOptions.forEach(opt => opt.classList.remove('active'));
             option.classList.add('active');
 
-            // Apply translations and update URL
-            applyTranslations(selectedFullLang, true);
+            // Store language before navigation
+            localStorage.setItem('selectedLanguage', selectedLangCode);
 
-            // Update URL in history
+            // Track language change
+            trackEvent('language', 'change', selectedLangCode);
+
+            // Navigate to dedicated localized page
             updateURL(selectedLangCode, false);
 
             // Close dropdown
             languageDropdown.classList.remove('active');
-
-            // Track language change
-            trackEvent('language', 'change', selectedLangCode);
         });
 
         // Set active language
@@ -651,15 +656,12 @@ function initLanguageSelector() {
         }
     });
 
-    // Initialize hreflang tags
-    updateHreflangTags();
-
     // Apply current language on load
     const currentFullLang = SUPPORTED_LANGUAGES[currentLanguage] || currentLanguage;
     applyTranslations(currentFullLang, false);
 
     // Ensure URL is correct on initial load
-    if (!getLanguageFromURL() || getLanguageFromURL() !== currentLanguage) {
+    if (!getLanguageFromURL() && currentLanguage !== DEFAULT_LANGUAGE) {
         updateURL(currentLanguage, true);
     }
 }
