@@ -367,6 +367,22 @@ const SUPPORTED_LANGUAGES = {
 };
 
 const DEFAULT_LANGUAGE = 'en';
+const BLOG_LANGUAGE_ROUTES = {
+    ru: '/blog/index.html',
+    en: '/blog/en/',
+    es: '/blog/es/',
+    fr: '/blog/fr/',
+    de: '/blog/de/',
+    it: '/blog/it/',
+    pl: '/blog/pl/',
+    uk: '/blog/uk/',
+    zh: '/blog/zh/',
+    ar: '/blog/ar/'
+};
+
+function getBlogRouteForLanguage(langCode) {
+    return BLOG_LANGUAGE_ROUTES[langCode] || BLOG_LANGUAGE_ROUTES.en;
+}
 
 // Get language from URL path (e.g., /en, /ru, /es)
 function getLanguageFromURL() {
@@ -561,13 +577,9 @@ function applyTranslations(lang, updateURLFlag = true) {
 
     // Update blog links based on language
     document.querySelectorAll('.blog-link').forEach(blogLink => {
-        if (langCode === 'ru' || langCode === 'ru-RU') {
-            blogLink.href = '/blog/index.html';
-        } else {
-            // For other languages, use blog/{lang}/ structure
-            const blogLangCode = langCode.split('-')[0]; // Get 'en' from 'en-US'
-            blogLink.href = `/blog/${blogLangCode}/`;
-        }
+        // Route to existing localized blog pages; fallback to EN where locale is not available yet.
+        const blogLangCode = langCode.split('-')[0];
+        blogLink.href = getBlogRouteForLanguage(blogLangCode);
     });
 
     // Update meta tags

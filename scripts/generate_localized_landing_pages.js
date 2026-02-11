@@ -26,6 +26,19 @@ const LANG_TO_LOCALE = {
   hi: "hi-IN",
 };
 
+const BLOG_LANGUAGE_ROUTES = {
+  ru: "/blog/index.html",
+  en: "/blog/en/",
+  es: "/blog/es/",
+  fr: "/blog/fr/",
+  de: "/blog/de/",
+  it: "/blog/it/",
+  pl: "/blog/pl/",
+  uk: "/blog/uk/",
+  zh: "/blog/zh/",
+  ar: "/blog/ar/",
+};
+
 function escapeRegExp(value) {
   return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
@@ -164,6 +177,20 @@ function setCurrentLangBadge(html, langCode) {
   return html.replace(/<span id="currentLang">[^<]*<\/span>/, `<span id="currentLang">${langCode.toUpperCase()}</span>`);
 }
 
+function getBlogRouteForLanguage(langCode) {
+  return BLOG_LANGUAGE_ROUTES[langCode] || BLOG_LANGUAGE_ROUTES.en;
+}
+
+function setBlogLinks(html, langCode) {
+  const blogHref = getBlogRouteForLanguage(langCode);
+  return html.replace(/<a\b[^>]*class="[^"]*\bblog-link\b[^"]*"[^>]*>/gi, (tag) => {
+    if (/\bhref="[^"]*"/i.test(tag)) {
+      return tag.replace(/\bhref="[^"]*"/i, `href="${blogHref}"`);
+    }
+    return tag.replace("<a", `<a href="${blogHref}"`);
+  });
+}
+
 function buildLocalizedHtml(template, translations, langCode) {
   const locale = LANG_TO_LOCALE[langCode];
   const t = translations[locale] || translations["en-US"];
@@ -202,6 +229,7 @@ function buildLocalizedHtml(template, translations, langCode) {
   html = setLanguageOptionLabels(html);
   html = setCurrentLangBadge(html, langCode);
   html = applyStaticTranslations(html, t);
+  html = setBlogLinks(html, langCode);
   html = normalizePaths(html);
 
   return html;
@@ -242,6 +270,7 @@ function buildRootHtml(template, translations) {
   html = setLanguageOptionLabels(html);
   html = setCurrentLangBadge(html, "en");
   html = applyStaticTranslations(html, t);
+  html = setBlogLinks(html, "en");
   html = normalizePaths(html);
 
   return html;

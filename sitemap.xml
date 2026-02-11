@@ -47,11 +47,102 @@
         <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/"/>
     </url>
     <url>
+        <loc>https://fileconverter.store/blog/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.85</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://fileconverter.store/blog/ar/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/ar/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.85</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://fileconverter.store/blog/ar/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/de/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.85</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://fileconverter.store/blog/ar/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/de/guides/complete-file-conversion-guide-2025/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.72</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/guides/complete-file-conversion-guide-2025/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/de/guides/pdf-conversion-complete-guide/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.72</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/guides/pdf-conversion-complete-guide/"/>
+    </url>
+    <url>
         <loc>https://fileconverter.store/blog/en/</loc>
         <lastmod>2026-02-11</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.85</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://fileconverter.store/blog/ar/"/>
         <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/"/>
     </url>
     <url>
@@ -59,7 +150,15 @@
         <lastmod>2026-02-11</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.72</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/guides/complete-file-conversion-guide-2025/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/guides/complete-file-conversion-guide-2025/"/>
         <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/guides/complete-file-conversion-guide-2025/"/>
     </url>
     <url>
@@ -67,7 +166,14 @@
         <lastmod>2026-02-11</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.72</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/guides/pdf-conversion-complete-guide/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/guides/pdf-conversion-complete-guide/"/>
         <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/guides/pdf-conversion-complete-guide/"/>
     </url>
     <url>
@@ -75,6 +181,7 @@
         <lastmod>2026-02-11</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.72</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/how-to/batch-convert-files/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/how-to/batch-convert-files/"/>
         <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/how-to/batch-convert-files/"/>
     </url>
@@ -83,6 +190,7 @@
         <lastmod>2026-02-11</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.72</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/how-to/convert-docx-to-pdf/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/how-to/convert-docx-to-pdf/"/>
         <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/how-to/convert-docx-to-pdf/"/>
     </url>
@@ -91,6 +199,7 @@
         <lastmod>2026-02-11</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.72</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/how-to/convert-heic-to-jpg-windows-11/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/how-to/convert-heic-to-jpg-windows-11/"/>
         <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/how-to/convert-heic-to-jpg-windows-11/"/>
     </url>
@@ -99,8 +208,373 @@
         <lastmod>2026-02-11</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.72</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/how-to/convert-webp-to-jpg-windows/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/how-to/convert-webp-to-jpg-windows/"/>
         <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/how-to/convert-webp-to-jpg-windows/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/es/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.85</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://fileconverter.store/blog/ar/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/es/guides/complete-file-conversion-guide-2025/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.72</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/guides/complete-file-conversion-guide-2025/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/es/guides/pdf-conversion-complete-guide/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.72</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/guides/pdf-conversion-complete-guide/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/fr/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.85</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://fileconverter.store/blog/ar/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/fr/guides/complete-file-conversion-guide-2025/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.72</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/guides/complete-file-conversion-guide-2025/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/fr/guides/pdf-conversion-complete-guide/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.72</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/guides/pdf-conversion-complete-guide/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/guides/complete-file-conversion-guide-2025/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.72</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/guides/complete-file-conversion-guide-2025/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/guides/image-conversion-guide/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.72</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/guides/image-conversion-guide/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/guides/image-conversion-guide/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/guides/pdf-conversion-complete-guide/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.72</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/guides/pdf-conversion-complete-guide/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/guides/video-audio-conversion-guide/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.72</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/guides/video-audio-conversion-guide/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/guides/video-audio-conversion-guide/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/how-to/batch-convert-files/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.72</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/how-to/batch-convert-files/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/how-to/batch-convert-files/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/how-to/batch-convert-files/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/how-to/convert-docx-to-pdf/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.72</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/how-to/convert-docx-to-pdf/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/how-to/convert-docx-to-pdf/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/how-to/convert-docx-to-pdf/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/how-to/convert-heic-to-jpg-windows-11/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.72</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/how-to/convert-heic-to-jpg-windows-11/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/how-to/convert-heic-to-jpg-windows-11/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/how-to/convert-heic-to-jpg-windows-11/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/how-to/convert-pdf-to-word/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.72</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/how-to/convert-pdf-to-word/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/how-to/convert-pdf-to-word/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/how-to/convert-webp-to-jpg-windows/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.72</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/how-to/convert-webp-to-jpg-windows/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/how-to/convert-webp-to-jpg-windows/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/how-to/convert-webp-to-jpg-windows/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/it/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.85</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://fileconverter.store/blog/ar/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/it/guides/complete-file-conversion-guide-2025/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.72</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/guides/complete-file-conversion-guide-2025/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/it/guides/pdf-conversion-complete-guide/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.72</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/guides/pdf-conversion-complete-guide/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/pl/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.85</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://fileconverter.store/blog/ar/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/pl/guides/complete-file-conversion-guide-2025/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.72</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/guides/complete-file-conversion-guide-2025/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/uk/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.85</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://fileconverter.store/blog/ar/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/uk/guides/complete-file-conversion-guide-2025/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.72</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/guides/complete-file-conversion-guide-2025/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/uk/guides/pdf-conversion-complete-guide/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.72</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/guides/pdf-conversion-complete-guide/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/zh/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.85</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://fileconverter.store/blog/ar/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/zh/guides/complete-file-conversion-guide-2025/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.72</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://fileconverter.store/blog/pl/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/guides/complete-file-conversion-guide-2025/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/guides/complete-file-conversion-guide-2025/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/blog/zh/guides/pdf-conversion-complete-guide/</loc>
+        <lastmod>2026-02-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.72</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://fileconverter.store/blog/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/blog/en/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://fileconverter.store/blog/es/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fileconverter.store/blog/fr/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fileconverter.store/blog/de/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://fileconverter.store/blog/it/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://fileconverter.store/blog/uk/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://fileconverter.store/blog/zh/guides/pdf-conversion-complete-guide/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/blog/en/guides/pdf-conversion-complete-guide/"/>
     </url>
     <url>
         <loc>https://fileconverter.store/de/</loc>
