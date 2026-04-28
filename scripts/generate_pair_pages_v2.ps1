@@ -7,7 +7,8 @@
 param(
     [string]$RootPath = (Get-Location).Path,
     [string]$Domain = "https://fileconverter.store",
-    [string[]]$Only = @()  # if non-empty, only generate these slugs
+    [string[]]$Only = @(),  # if non-empty, only generate these slugs
+    [string]$DataPath = ""  # override default data file path
 )
 
 $ErrorActionPreference = "Stop"
@@ -341,8 +342,8 @@ $outOptHtml                    </ul>
 # ===== PER-PAIR DATA =====
 # Each entry must produce 700+ words of UNIQUE body content.
 
-$dataPath = "$RootPath\scripts\generate_pair_pages_v2_data.ps1"
-$dataContent = [System.IO.File]::ReadAllText($dataPath, [System.Text.Encoding]::UTF8)
+$resolvedDataPath = if ($DataPath -ne "") { $DataPath } else { "$RootPath\scripts\generate_pair_pages_v2_data.ps1" }
+$dataContent = [System.IO.File]::ReadAllText($resolvedDataPath, [System.Text.Encoding]::UTF8)
 Invoke-Expression $dataContent
 
 if (-not $PairData) {

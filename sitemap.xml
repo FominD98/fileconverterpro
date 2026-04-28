@@ -631,6 +631,22 @@
         <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/aac-to-mp3/"/>
     </url>
     <url>
+        <loc>https://fileconverter.store/en/convert/avif-to-jpg/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.78</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/avif-to-jpg/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/avif-to-jpg/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/en/convert/avif-to-png/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.78</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/avif-to-png/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/avif-to-png/"/>
+    </url>
+    <url>
         <loc>https://fileconverter.store/en/convert/csv-to-json/</loc>
         <lastmod>2026-04-28</lastmod>
         <changefreq>monthly</changefreq>
@@ -663,12 +679,44 @@
         <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/docx-to-pdf/"/>
     </url>
     <url>
+        <loc>https://fileconverter.store/en/convert/epub-to-pdf/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.78</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/epub-to-pdf/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/epub-to-pdf/"/>
+    </url>
+    <url>
         <loc>https://fileconverter.store/en/convert/flac-to-mp3/</loc>
         <lastmod>2026-04-28</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.78</priority>
         <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/flac-to-mp3/"/>
         <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/flac-to-mp3/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/en/convert/heic-to-jpg/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.78</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/heic-to-jpg/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/heic-to-jpg/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/en/convert/heic-to-pdf/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.78</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/heic-to-pdf/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/heic-to-pdf/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/en/convert/heic-to-png/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.78</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/heic-to-png/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/heic-to-png/"/>
     </url>
     <url>
         <loc>https://fileconverter.store/en/convert/html-to-markdown/</loc>
@@ -695,6 +743,30 @@
         <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/ico-to-png/"/>
     </url>
     <url>
+        <loc>https://fileconverter.store/en/convert/image-to-pdf/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.78</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/image-to-pdf/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/image-to-pdf/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/en/convert/jfif-to-jpg/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.78</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/jfif-to-jpg/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/jfif-to-jpg/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/en/convert/jpg-to-pdf/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.78</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/jpg-to-pdf/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/jpg-to-pdf/"/>
+    </url>
+    <url>
         <loc>https://fileconverter.store/en/convert/jpg-to-png/</loc>
         <lastmod>2026-04-28</lastmod>
         <changefreq>monthly</changefreq>
@@ -703,12 +775,28 @@
         <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/jpg-to-png/"/>
     </url>
     <url>
+        <loc>https://fileconverter.store/en/convert/jpg-to-webp/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.78</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/jpg-to-webp/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/jpg-to-webp/"/>
+    </url>
+    <url>
         <loc>https://fileconverter.store/en/convert/json-to-xlsx/</loc>
         <lastmod>2026-04-28</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.78</priority>
         <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/json-to-xlsx/"/>
         <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/json-to-xlsx/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/en/convert/m4a-to-mp3/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.78</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/m4a-to-mp3/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/m4a-to-mp3/"/>
     </url>
     <url>
         <loc>https://fileconverter.store/en/convert/markdown-to-pdf/</loc>
@@ -735,6 +823,30 @@
         <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/mov-to-mp4/"/>
     </url>
     <url>
+        <loc>https://fileconverter.store/en/convert/mp3-to-wav/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.78</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/mp3-to-wav/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/mp3-to-wav/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/en/convert/mp4-to-gif/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.78</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/mp4-to-gif/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/mp4-to-gif/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/en/convert/mp4-to-mp3/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.78</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/mp4-to-mp3/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/mp4-to-mp3/"/>
+    </url>
+    <url>
         <loc>https://fileconverter.store/en/convert/mp4-to-webm/</loc>
         <lastmod>2026-04-28</lastmod>
         <changefreq>monthly</changefreq>
@@ -743,12 +855,92 @@
         <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/mp4-to-webm/"/>
     </url>
     <url>
+        <loc>https://fileconverter.store/en/convert/ogg-to-mp3/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.78</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/ogg-to-mp3/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/ogg-to-mp3/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/en/convert/pdf-to-epub/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.78</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/pdf-to-epub/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/pdf-to-epub/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/en/convert/pdf-to-excel/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.78</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/pdf-to-excel/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/pdf-to-excel/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/en/convert/pdf-to-jpg/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.78</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/pdf-to-jpg/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/pdf-to-jpg/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/en/convert/pdf-to-png/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.78</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/pdf-to-png/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/pdf-to-png/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/en/convert/pdf-to-pptx/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.78</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/pdf-to-pptx/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/pdf-to-pptx/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/en/convert/pdf-to-word/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.78</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/pdf-to-word/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/pdf-to-word/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/en/convert/png-to-ico/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.78</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/png-to-ico/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/png-to-ico/"/>
+    </url>
+    <url>
         <loc>https://fileconverter.store/en/convert/png-to-jpg/</loc>
         <lastmod>2026-04-28</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.78</priority>
         <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/png-to-jpg/"/>
         <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/png-to-jpg/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/en/convert/png-to-pdf/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.78</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/png-to-pdf/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/png-to-pdf/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/en/convert/png-to-webp/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.78</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/png-to-webp/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/png-to-webp/"/>
     </url>
     <url>
         <loc>https://fileconverter.store/en/convert/pptx-to-pdf/</loc>
@@ -767,12 +959,28 @@
         <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/rtf-to-txt/"/>
     </url>
     <url>
+        <loc>https://fileconverter.store/en/convert/svg-to-pdf/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.78</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/svg-to-pdf/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/svg-to-pdf/"/>
+    </url>
+    <url>
         <loc>https://fileconverter.store/en/convert/svg-to-png/</loc>
         <lastmod>2026-04-28</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.78</priority>
         <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/svg-to-png/"/>
         <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/svg-to-png/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/en/convert/tiff-to-pdf/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.78</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/tiff-to-pdf/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/tiff-to-pdf/"/>
     </url>
     <url>
         <loc>https://fileconverter.store/en/convert/txt-to-pdf/</loc>
@@ -791,12 +999,36 @@
         <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/wav-to-mp3/"/>
     </url>
     <url>
+        <loc>https://fileconverter.store/en/convert/webm-to-mp4/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.78</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/webm-to-mp4/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/webm-to-mp4/"/>
+    </url>
+    <url>
         <loc>https://fileconverter.store/en/convert/webp-to-jpg/</loc>
         <lastmod>2026-04-28</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.78</priority>
         <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/webp-to-jpg/"/>
         <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/webp-to-jpg/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/en/convert/webp-to-png/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.78</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/webp-to-png/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/webp-to-png/"/>
+    </url>
+    <url>
+        <loc>https://fileconverter.store/en/convert/word-to-pdf/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.78</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fileconverter.store/en/convert/word-to-pdf/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fileconverter.store/en/convert/word-to-pdf/"/>
     </url>
     <url>
         <loc>https://fileconverter.store/en/convert/xlsx-to-csv/</loc>
