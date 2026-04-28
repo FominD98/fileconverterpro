@@ -1,0 +1,1340 @@
+﻿Field,ID,Type (Type),default,en-us,es,en,fr,it,de,pt-br,id,ja,ms,uk,zh,ko,vi,da,th,sv,hu,el,no,ro,sk,fil,fi,cs
+Description,2,Text,,"File Converter Pro is a universal offline file converter for Windows that lets you quickly change file formats with complete privacy. It supports 44+ file formats across documents, images, videos, and audio, all without needing an internet connection. Every conversion is done locally on your PC, meaning no data ever leaves your device – ideal for users who want fast, reliable conversions without risking their files in the cloud. Whether you need to convert a PDF into a Word document, an MP4 video into MP3 audio, or a PNG image into JPEG, File Converter Pro has you covered in just a few clicks – with no size limits, no upload wait times, and no subscriptions required.
+
+Key Features
+
+100% Offline & Private: All conversions run locally on your Windows PC. Your files never leave your machine, eliminating any risk of data leaks or unauthorized access. (Even when online services promise to delete uploads, their vague policies often leave doubts, making offline tools a safer choice.)
+
+No File Size Limits: Convert large videos, high-resolution images, and hefty PDF documents without any restrictions on file size. There are no bandwidth or quota caps – convert as many files as you need, as often as you need, with zero additional fees. (Many online converters cap free users at ~100MB per file or just a few conversions per day, but File Converter Pro imposes no limits.)
+
+44+ Format Support: Handle virtually any common file type in one app. Documents (PDF, DOCX, PPTX, TXT, RTF, HTML, Markdown), spreadsheets/data (XLSX, CSV, JSON), images (PNG, JPG/JPEG, WebP, BMP, TIFF, GIF, SVG, ICO), videos (MP4, AVI, MKV, MOV, WebM, WMV), and audio (MP3, WAV, FLAC, AAC, OGG) are all supported. This wide format range means you won’t need multiple conversion tools for different file types.
+
+Batch Conversion: Save time by converting multiple files at once. You can queue up a batch of files (even of different formats) and convert them all in one go, which is perfect for daily work where you might have dozens of files to process. The app will convert each file sequentially and let you know when the batch is done.
+
+Easy to Use: File Converter Pro offers an intuitive drag-and-drop interface. Just drop your files in, choose the output format, and start the conversion. You’ll see clear progress indicators for each file, and when conversions are complete, the output folder opens automatically. There’s no need to wrestle with complex settings – the defaults are optimized for quality and file size in each format, while still allowing advanced users to tweak settings if needed.
+
+Supported Formats
+
+Images: PNG, JPG, JPEG, WebP, BMP, TIFF, GIF, SVG, ICO
+
+Documents: PDF, DOCX, PPTX (PowerPoint), TXT, RTF, HTML, Markdown
+
+Data/Sheets: XLSX (Excel), CSV, JSON
+
+Video: MP4, AVI, MKV, MOV, WebM, WMV
+
+Audio: MP3, WAV, FLAC, AAC, OGG
+
+(With over 44 formats supported, File Converter Pro covers all the common file types most people encounter. This means one tool can convert your work documents, images, media files, and more, all in-house.)
+
+Who Is It For?
+
+Office & Business Users: Perfect for professionals who need to safely convert contracts, reports, presentations or any business documents without using online services. Sensitive documents like financial reports or client data stay on your secure network.
+
+Students & Educators: Ideal for converting lecture notes, assignments, research articles, or slides between formats (e.g., PDF to PPTX or vice versa). No internet needed, so you can convert files during lectures or travel.
+
+Creators & Marketers: Helps content creators, designers, photographers, and marketing teams prep media for publishing. For example, convert images to the right format, compress videos, or extract audio from video clips entirely offline. This streamlines your workflow when working with podcasts, video content, social media graphics, and more.
+
+Privacy-Conscious Users: Anyone handling confidential or personal files (legal documents, medical records, private videos, etc.) who cannot risk uploading them to cloud servers will appreciate the fully offline process. File Converter Pro ensures your files never leave your device, giving you peace of mind.
+
+Why Choose Offline Conversion?
+
+Using an offline converter like File Converter Pro offers significant advantages over online web-based converters:
+
+Complete Privacy: Since files are not uploaded anywhere, you don’t have to worry about who might access your data. All input and output files stay on your PC, which safeguards their security. Online converters may claim to delete your files after processing, but not all guarantee clear, transparent policies on data deletion. With File Converter Pro, you are in full control of your files at all times.
+
+No Internet Required: You can convert files anytime, anywhere, even without a web connection – useful for travel or secure office environments with no internet access. Offline tools are always available and not dependent on server uptime or bandwidth. (Desktop converters can be used from any location since they don’t need an internet connection.)
+
+No Size or Usage Limits: An offline app doesn’t impose artificial restrictions. Convert huge files (gigabyte-large videos, lengthy raw images, etc.) and any number of files in one session. There are no daily quotas or “premium” tiers – you already have full functionality. (Unlike many free online services that limit file size or conversions per day, offline converters have no such limits.)
+
+Faster Conversions: Avoid the slow step of uploading and downloading large files. By harnessing your computer’s own processing power, File Converter Pro can often convert files faster than cloud services – especially for big video or image files. There’s no waiting on network transfers, and no queuing behind other users’ jobs. The conversion starts immediately and finishes promptly with results saved right on your disk. (In fact, desktop converters can be significantly faster because they use your PC’s resources instead of a possibly crowded server.)
+
+No Subscription or Extra Fees: File Converter Pro delivers its full feature set with a one-time installation (no recurring subscription required). You won’t be pressured into upgrading for “premium” features or forced to watch ads. This makes it cost-effective and hassle-free over the long run. (Many online platforms offer basic conversions for free but charge for higher usage or better speed/quality; with an offline tool, you pay once (or not at all) and get everything upfront.)
+
+In summary, File Converter Pro gives you a fast, powerful, and private way to convert files on Windows without relying on any cloud services. It combines the convenience of an all-in-one converter with the peace of mind of keeping your data locally. Download File Converter Pro today and enjoy unlimited file conversion for images, PDFs, videos, audio, and documents – with no cloud uploads, no size limits, and no subscriptions ever needed.","FileForge es un convertidor de archivos universal y sin conexión para Windows que te ayuda a cambiar formatos de archivo rápidamente sin enviar datos a la nube. Está diseñado para personas que trabajan regularmente con documentos, imágenes, videos y archivos de audio y desean una conversión rápida, confiable y completamente privada.
+
+Con FileForge, puedes convertir imágenes, PDF, documentos de Office, hojas de cálculo, videos y archivos de audio en unos pocos clics. Todo el procesamiento se realiza localmente en tu PC, por lo que no hay límites de tamaño de archivo, colas de carga ni riesgo de que tus datos se almacenen en servidores remotos.
+
+Características principales:
+
+• 100% sin conexión y privado: cada conversión se ejecuta en tu dispositivo, los datos nunca se suben
+• Sin límites de tamaño de archivo: adecuado para videos grandes, imágenes de alta resolución y documentos PDF voluminosos
+• Más de 44 formatos compatibles para imágenes, documentos, archivos de datos, video y audio
+• Conversión por lotes para múltiples archivos a la vez y ahorrar tiempo en el trabajo diario
+• Interfaz de arrastrar y soltar, indicación clara del progreso y apertura automática de la carpeta de salida
+
+Formatos compatibles:
+
+• Imágenes: PNG, JPG, JPEG, WebP, BMP, TIFF, GIF, SVG, ICO
+• Documentos: PDF, DOCX, PPTX, TXT, RTF, HTML, Markdown
+• Archivos de datos: XLSX, CSV, JSON
+• Video: MP4, AVI, MKV, MOV, WebM, WMV
+• Audio: MP3, WAV, FLAC, AAC, OGG
+
+Para quién:
+
+• Usuarios de oficina y negocios que necesitan convertir contratos, informes y presentaciones de forma segura sin servicios en la nube
+• Estudiantes y profesores que trabajan con notas de clase, tareas y diapositivas en diferentes formatos
+• Creadores, diseñadores y especialistas en marketing que preparan imágenes, clips y audio para publicación y distribución
+
+Descarga FileForge y obtén un convertidor de archivos rápido, privado y potente para el trabajo diario en Windows, sin suscripciones y sin convertidores en línea.","File Converter Pro is a universal offline file converter for Windows that lets you quickly change file formats with complete privacy. It supports 44+ file formats across documents, images, videos, and audio, all without needing an internet connection. Every conversion is done locally on your PC, meaning no data ever leaves your device – ideal for users who want fast, reliable conversions without risking their files in the cloud. Whether you need to convert a PDF into a Word document, an MP4 video into MP3 audio, or a PNG image into JPEG, File Converter Pro has you covered in just a few clicks – with no size limits, no upload wait times, and no subscriptions required.
+
+Key Features
+
+100% Offline & Private: All conversions run locally on your Windows PC. Your files never leave your machine, eliminating any risk of data leaks or unauthorized access. (Even when online services promise to delete uploads, their vague policies often leave doubts, making offline tools a safer choice.)
+
+No File Size Limits: Convert large videos, high-resolution images, and hefty PDF documents without any restrictions on file size. There are no bandwidth or quota caps – convert as many files as you need, as often as you need, with zero additional fees. (Many online converters cap free users at ~100MB per file or just a few conversions per day, but File Converter Pro imposes no limits.)
+
+44+ Format Support: Handle virtually any common file type in one app. Documents (PDF, DOCX, PPTX, TXT, RTF, HTML, Markdown), spreadsheets/data (XLSX, CSV, JSON), images (PNG, JPG/JPEG, WebP, BMP, TIFF, GIF, SVG, ICO), videos (MP4, AVI, MKV, MOV, WebM, WMV), and audio (MP3, WAV, FLAC, AAC, OGG) are all supported. This wide format range means you won’t need multiple conversion tools for different file types.
+
+Batch Conversion: Save time by converting multiple files at once. You can queue up a batch of files (even of different formats) and convert them all in one go, which is perfect for daily work where you might have dozens of files to process. The app will convert each file sequentially and let you know when the batch is done.
+
+Easy to Use: File Converter Pro offers an intuitive drag-and-drop interface. Just drop your files in, choose the output format, and start the conversion. You’ll see clear progress indicators for each file, and when conversions are complete, the output folder opens automatically. There’s no need to wrestle with complex settings – the defaults are optimized for quality and file size in each format, while still allowing advanced users to tweak settings if needed.
+
+Supported Formats
+
+Images: PNG, JPG, JPEG, WebP, BMP, TIFF, GIF, SVG, ICO
+
+Documents: PDF, DOCX, PPTX (PowerPoint), TXT, RTF, HTML, Markdown
+
+Data/Sheets: XLSX (Excel), CSV, JSON
+
+Video: MP4, AVI, MKV, MOV, WebM, WMV
+
+Audio: MP3, WAV, FLAC, AAC, OGG
+
+(With over 44 formats supported, File Converter Pro covers all the common file types most people encounter. This means one tool can convert your work documents, images, media files, and more, all in-house.)
+
+Who Is It For?
+
+Office & Business Users: Perfect for professionals who need to safely convert contracts, reports, presentations or any business documents without using online services. Sensitive documents like financial reports or client data stay on your secure network.
+
+Students & Educators: Ideal for converting lecture notes, assignments, research articles, or slides between formats (e.g., PDF to PPTX or vice versa). No internet needed, so you can convert files during lectures or travel.
+
+Creators & Marketers: Helps content creators, designers, photographers, and marketing teams prep media for publishing. For example, convert images to the right format, compress videos, or extract audio from video clips entirely offline. This streamlines your workflow when working with podcasts, video content, social media graphics, and more.
+
+Privacy-Conscious Users: Anyone handling confidential or personal files (legal documents, medical records, private videos, etc.) who cannot risk uploading them to cloud servers will appreciate the fully offline process. File Converter Pro ensures your files never leave your device, giving you peace of mind.
+
+Why Choose Offline Conversion?
+
+Using an offline converter like File Converter Pro offers significant advantages over online web-based converters:
+
+Complete Privacy: Since files are not uploaded anywhere, you don’t have to worry about who might access your data. All input and output files stay on your PC, which safeguards their security. Online converters may claim to delete your files after processing, but not all guarantee clear, transparent policies on data deletion. With File Converter Pro, you are in full control of your files at all times.
+
+No Internet Required: You can convert files anytime, anywhere, even without a web connection – useful for travel or secure office environments with no internet access. Offline tools are always available and not dependent on server uptime or bandwidth. (Desktop converters can be used from any location since they don’t need an internet connection.)
+
+No Size or Usage Limits: An offline app doesn’t impose artificial restrictions. Convert huge files (gigabyte-large videos, lengthy raw images, etc.) and any number of files in one session. There are no daily quotas or “premium” tiers – you already have full functionality. (Unlike many free online services that limit file size or conversions per day, offline converters have no such limits.)
+
+Faster Conversions: Avoid the slow step of uploading and downloading large files. By harnessing your computer’s own processing power, File Converter Pro can often convert files faster than cloud services – especially for big video or image files. There’s no waiting on network transfers, and no queuing behind other users’ jobs. The conversion starts immediately and finishes promptly with results saved right on your disk. (In fact, desktop converters can be significantly faster because they use your PC’s resources instead of a possibly crowded server.)
+
+No Subscription or Extra Fees: File Converter Pro delivers its full feature set with a one-time installation (no recurring subscription required). You won’t be pressured into upgrading for “premium” features or forced to watch ads. This makes it cost-effective and hassle-free over the long run. (Many online platforms offer basic conversions for free but charge for higher usage or better speed/quality; with an offline tool, you pay once (or not at all) and get everything upfront.)
+
+In summary, File Converter Pro gives you a fast, powerful, and private way to convert files on Windows without relying on any cloud services. It combines the convenience of an all-in-one converter with the peace of mind of keeping your data locally. Download File Converter Pro today and enjoy unlimited file conversion for images, PDFs, videos, audio, and documents – with no cloud uploads, no size limits, and no subscriptions ever needed.","FileForge est un convertisseur de fichiers hors ligne universel pour Windows qui vous aide à modifier rapidement les formats de fichiers sans envoyer de données dans le cloud. Il est conçu pour les personnes qui travaillent régulièrement avec des documents, des images, des vidéos et des fichiers audio et souhaitent une conversion rapide, fiable et totalement privée.
+
+Avec FileForge, vous pouvez convertir des images, des PDF, des documents Office, des feuilles de calcul, des vidéos et des fichiers audio en quelques clics. Tout le traitement se fait localement sur votre PC, il n'y a donc aucune limite de taille de fichier, aucune file d'attente de téléchargement et aucun risque que vos données soient stockées sur des serveurs distants.
+
+Fonctionnalités principales :
+
+• 100 % hors ligne et privé – chaque conversion s'exécute sur votre appareil, les données ne sont jamais téléchargées
+• Aucune limite de taille de fichier – adapté aux grandes vidéos, aux images haute résolution et aux gros documents PDF
+• 44+ formats pris en charge pour les images, documents, fichiers de données, vidéos et audio
+• Conversion par lots pour plusieurs fichiers à la fois afin de gagner du temps dans le travail quotidien
+• Interface glisser-déposer, indication claire de la progression et ouverture automatique du dossier de sortie
+
+Formats pris en charge :
+
+• Images : PNG, JPG, JPEG, WebP, BMP, TIFF, GIF, SVG, ICO
+• Documents : PDF, DOCX, PPTX, TXT, RTF, HTML, Markdown
+• Fichiers de données : XLSX, CSV, JSON
+• Vidéo : MP4, AVI, MKV, MOV, WebM, WMV
+• Audio : MP3, WAV, FLAC, AAC, OGG
+
+Pour qui :
+
+• Utilisateurs professionnels et commerciaux qui doivent convertir en toute sécurité des contrats, des rapports et des présentations sans services cloud
+• Étudiants et enseignants travaillant avec des notes de cours, des devoirs et des diapositives dans différents formats
+• Créateurs, designers et marketeurs préparant des images, des clips et de l'audio pour la publication et le partage
+
+Téléchargez FileForge et obtenez un convertisseur de fichiers rapide, privé et puissant pour le travail quotidien sous Windows – sans abonnements et sans convertisseurs en ligne.","FileForge è un convertitore di file universale offline per Windows che ti aiuta a modificare rapidamente i formati dei file senza inviare dati al cloud. È progettato per chi lavora regolarmente con documenti, immagini, video e file audio e desidera una conversione veloce, affidabile e completamente privata.
+
+Con FileForge puoi convertire immagini, PDF, documenti Office, fogli di calcolo, video e file audio in pochi clic. Tutta l'elaborazione avviene localmente sul tuo PC, quindi non ci sono limiti di dimensione dei file, code di caricamento o rischi che i tuoi dati vengano archiviati su server remoti.
+
+Caratteristiche principali:
+
+• 100% offline e privato - ogni conversione viene eseguita sul tuo dispositivo, i dati non vengono mai caricati
+• Nessun limite di dimensione del file - adatto per video di grandi dimensioni, immagini ad alta risoluzione e documenti PDF voluminosi
+• Oltre 44 formati supportati per immagini, documenti, file di dati, video e audio
+• Conversione batch per più file contemporaneamente per risparmiare tempo nel lavoro quotidiano
+• Interfaccia drag and drop, indicazione chiara dell'avanzamento e apertura automatica della cartella di output
+
+Formati supportati:
+
+• Immagini: PNG, JPG, JPEG, WebP, BMP, TIFF, GIF, SVG, ICO
+• Documenti: PDF, DOCX, PPTX, TXT, RTF, HTML, Markdown
+• File di dati: XLSX, CSV, JSON
+• Video: MP4, AVI, MKV, MOV, WebM, WMV
+• Audio: MP3, WAV, FLAC, AAC, OGG
+
+Per chi è indicato:
+
+• Utenti di ufficio e aziende che devono convertire contratti, report e presentazioni in modo sicuro senza servizi cloud
+• Studenti e insegnanti che lavorano con appunti delle lezioni, compiti e diapositive in diversi formati
+• Creator, designer e marketer che preparano immagini, clip e audio per pubblicazione e condivisione
+
+Scarica FileForge e ottieni un convertitore di file veloce, privato e potente per il lavoro quotidiano su Windows - senza abbonamenti e senza convertitori online.","FileForge ist ein universeller Offline-Dateikonverter für Windows, mit dem Sie Dateiformate schnell ändern können, ohne Daten in die Cloud hochzuladen. Das Programm eignet sich für alle, die regelmäßig mit Dokumenten, Bildern, Videos und Audiodateien arbeiten und eine schnelle, zuverlässige Konvertierung mit vollständiger Privatsphäre wünschen.
+
+Mit FileForge können Sie Bilder, PDFs, Office-Dokumente, Tabellen, Videos und Audiodateien mit wenigen Klicks konvertieren. Die gesamte Verarbeitung erfolgt lokal auf Ihrem PC, sodass es keine Dateigrößenbeschränkungen, keine Upload-Warteschlangen und kein Risiko gibt, dass Ihre Daten auf entfernten Servern gespeichert werden.
+
+Hauptfunktionen:
+
+• 100 % offline und privat – jede Konvertierung läuft auf Ihrem Gerät, Daten werden niemals hochgeladen
+• Keine Dateigrößenbeschränkungen – geeignet für große Videos, hochauflösende Bilder und umfangreiche PDF-Dokumente
+• 44+ unterstützte Formate für Bilder, Dokumente, Datendateien, Videos und Audio
+• Stapelkonvertierung für mehrere Dateien gleichzeitig, um Zeit bei der täglichen Arbeit zu sparen
+• Drag-and-Drop-Oberfläche, klare Fortschrittsanzeige und automatisches Öffnen des Ausgabeordners
+
+Unterstützte Formate:
+
+• Bilder: PNG, JPG, JPEG, WebP, BMP, TIFF, GIF, SVG, ICO
+• Dokumente: PDF, DOCX, PPTX, TXT, RTF, HTML, Markdown
+• Datendateien: XLSX, CSV, JSON
+• Video: MP4, AVI, MKV, MOV, WebM, WMV
+• Audio: MP3, WAV, FLAC, AAC, OGG
+
+Für wen geeignet:
+
+• Büro- und Geschäftsanwender, die Verträge, Berichte und Präsentationen sicher konvertieren müssen, ohne Cloud-Dienste zu nutzen
+• Studenten und Lehrer, die mit Vorlesungsnotizen, Aufgaben und Folien in verschiedenen Formaten arbeiten
+• Kreative, Designer und Marketer, die Bilder, Clips und Audio für Veröffentlichungen und zum Teilen vorbereiten
+
+Laden Sie FileForge herunter und erhalten Sie einen schnellen, privaten und leistungsstarken Dateikonverter für die tägliche Arbeit unter Windows – ohne Abonnements und ohne Online-Konverter.","FileForge é um conversor de arquivos universal offline para Windows que ajuda você a alterar formatos de arquivo rapidamente sem enviar dados para a nuvem. Foi projetado para pessoas que trabalham regularmente com documentos, imagens, vídeos e arquivos de áudio e desejam conversão rápida, confiável e completamente privada.
+
+Com o FileForge, você pode converter imagens, PDFs, documentos do Office, planilhas, vídeos e arquivos de áudio em alguns cliques. Todo o processamento acontece localmente no seu PC, então não há limites de tamanho de arquivo, filas de upload ou risco de seus dados serem armazenados em servidores remotos.
+
+Recursos principais:
+
+• 100% offline e privado - cada conversão é executada no seu dispositivo, os dados nunca são enviados
+• Sem limites de tamanho de arquivo - adequado para vídeos grandes, imagens de alta resolução e documentos PDF volumosos
+• Mais de 44 formatos suportados para imagens, documentos, arquivos de dados, vídeo e áudio
+• Conversão em lote para vários arquivos ao mesmo tempo para economizar tempo no trabalho diário
+• Interface de arrastar e soltar, indicação clara do progresso e abertura automática da pasta de saída
+
+Formatos suportados:
+
+• Imagens: PNG, JPG, JPEG, WebP, BMP, TIFF, GIF, SVG, ICO
+• Documentos: PDF, DOCX, PPTX, TXT, RTF, HTML, Markdown
+• Arquivos de dados: XLSX, CSV, JSON
+• Vídeo: MP4, AVI, MKV, MOV, WebM, WMV
+• Áudio: MP3, WAV, FLAC, AAC, OGG
+
+Para quem é indicado:
+
+• Usuários de escritório e empresas que precisam converter contratos, relatórios e apresentações com segurança sem serviços na nuvem
+• Estudantes e professores que trabalham com anotações de aula, tarefas e slides em diferentes formatos
+• Criadores, designers e profissionais de marketing que preparam imagens, clipes e áudio para publicação e compartilhamento
+
+Baixe o FileForge e obtenha um conversor de arquivos rápido, privado e poderoso para o trabalho diário no Windows - sem assinaturas e sem conversores online.","FileForge - Konverter File Universal
+Ubah format file apa pun secara instan, offline dan pribadi
+
+FileForge adalah solusi konversi file lengkap Anda untuk Windows. Konversi gambar, dokumen, file data, video, dan audio tanpa batasan, dengan privasi lengkap dan performa secepat kilat - semuanya tanpa koneksi internet.
+
+FITUR UTAMA
+- 100% Offline dan Pribadi - Semua konversi terjadi secara lokal di PC Anda
+- Tidak ada data yang dikirim ke cloud
+- Privasi dan keamanan lengkap dijamin
+- Tidak ada batasan ukuran file atau pembatasan penggunaan
+
+FORMAT YANG DIDUKUNG (44+)
+Gambar: PNG, JPG, JPEG, WebP, BMP, TIFF, GIF, SVG, ICO
+Dokumen: PDF, DOCX, PPTX, TXT, RTF, HTML, Markdown
+Data: XLSX, CSV, JSON
+Video: MP4, AVI, MKV, MOV, WebM, WMV
+Audio: MP3, WAV, FLAC, AAC, OGG
+
+MENGAPA MEMILIH FILEFORGE?
+- Tanpa Batasan - Konversi file tak terbatas dengan ukuran apa pun
+- Privasi Utama - File Anda tidak pernah meninggalkan komputer Anda
+- Tidak Perlu Internet - Bekerja sepenuhnya offline
+- Teknologi Modern - Dibangun dengan .NET 8
+- Pemrosesan Batch - Konversi beberapa file secara bersamaan
+- Kualitas Profesional - Algoritma konversi tingkat enterprise
+
+Unduh FileForge hari ini dan rasakan konversi file profesional - cepat, pribadi, dan powerful!","FileForge — 万能ファイルコンバーター
+
+あらゆるファイル形式を即座に変換。オフラインで安全・高速。
+
+FileForge は、Windows 向けのオールインワンファイル変換ツールです。画像、ドキュメント、データ、動画、音声を無制限に変換。完全オフラインで動作し、プライバシーを守りながら高速処理を実現します。
+
+主な機能
+
+100% オフライン & プライベート — すべての変換は PC 内で完結
+
+クラウド送信なし — データが外部に送信されることはありません
+
+完全なセキュリティとプライバシー保護
+
+ファイルサイズや使用回数の制限なし
+
+対応形式（44 以上）
+
+画像 — PNG・JPG・JPEG・WebP・BMP・TIFF・GIF・SVG・ICO
+ドキュメント — PDF・DOCX・PPTX・TXT・RTF・HTML・Markdown
+データ — XLSX・CSV・JSON
+動画 — MP4・AVI・MKV・MOV・WebM・WMV
+音声 — MP3・WAV・FLAC・AAC・OGG
+
+FileForge を選ぶ理由
+
+無制限 — 数やサイズの制約なしで変換可能
+
+完全ローカル処理 — ファイルは一切 PC 外へ出ません
+
+インターネット不要 — 完全オフライン動作
+
+最新技術 — .NET 8 を採用した高速で安定した処理
+
+一括変換対応 — 複数ファイルを同時に変換
+
+プロ品質 — 高精度で信頼性の高い変換アルゴリズム
+
+FileForge を今すぐダウンロードして、高速・安全・強力なファイル変換を体験してください。","FileForge - Penukar Fail Sejagat
+Tukar sebarang format fail dengan serta-merta, luar talian dan peribadi
+
+FileForge ialah penyelesaian penukaran fail menyeluruh anda untuk Windows. Tukar imej, dokumen, fail data, video dan audio tanpa had, dengan privasi lengkap dan prestasi sepantas kilat - semuanya tanpa sambungan internet.
+
+CIRI-CIRI UTAMA
+- 100% Luar Talian dan Peribadi - Semua penukaran berlaku secara tempatan pada PC anda
+- Tiada data dihantar ke awan
+- Privasi dan keselamatan lengkap dijamin
+- Tiada had saiz fail atau sekatan penggunaan
+
+FORMAT YANG DISOKONG (44+)
+Imej: PNG, JPG, JPEG, WebP, BMP, TIFF, GIF, SVG, ICO
+Dokumen: PDF, DOCX, PPTX, TXT, RTF, HTML, Markdown
+Data: XLSX, CSV, JSON
+Video: MP4, AVI, MKV, MOV, WebM, WMV
+Audio: MP3, WAV, FLAC, AAC, OGG
+
+MENGAPA PILIH FILEFORGE?
+- Tiada Had - Tukar fail tanpa had dalam sebarang saiz
+- Privasi Utama - Fail anda tidak pernah meninggalkan komputer anda
+- Tiada Internet Diperlukan - Berfungsi sepenuhnya luar talian
+- Teknologi Moden - Dibina dengan .NET 8
+- Pemprosesan Kelompok - Tukar pelbagai fail serentak
+- Kualiti Profesional - Algoritma penukaran peringkat perusahaan
+
+Muat turun FileForge hari ini dan alami penukaran fail profesional - pantas, peribadi dan berkuasa!","FileForge – Універсальний Конвертер Файлів
+
+Перетворюйте будь-які файли миттєво, офлайн і безпечно
+
+FileForge – це комплексне рішення для конвертації файлів на Windows. Конвертуйте зображення, документи, дані, відео та аудіо без обмежень — швидко, конфіденційно та без підключення до інтернету.
+
+ОСНОВНІ ФУНКЦІЇ
+
+100 % офлайн та приватно – усі конверсії відбуваються локально на вашому ПК
+
+Жодних даних у хмарі
+
+Гарантована безпека та конфіденційність
+
+Без обмежень за розміром або використанням
+
+ПІДТРИМУВАНІ ФОРМАТИ (44+)
+
+Зображення: PNG, JPG, JPEG, WebP, BMP, TIFF, GIF, SVG, ICO
+
+Документи: PDF, DOCX, PPTX, TXT, RTF, HTML, Markdown
+
+Дані: XLSX, CSV, JSON
+
+Відео: MP4, AVI, MKV, MOV, WebM, WMV
+
+Аудіо: MP3, WAV, FLAC, AAC, OGG
+
+ЧОМУ ОБРАТИ FILEFORGE?
+
+Без обмежень – конвертуйте скільки завгодно файлів, будь-якого розміру
+
+Повна конфіденційність – ваші файли ніколи не залишають комп’ютер
+
+Працює офлайн – не потрібен інтернет
+
+Сучасні технології – створено на .NET 8 для оптимальної продуктивності
+
+Пакетна обробка – конвертуйте кілька файлів одночасно
+
+Професійна якість – надійні алгоритми конвертації корпоративного рівня
+
+Завантажте FileForge сьогодні та відчуйте швидку, безпечну та потужну конвертацію файлів.","FileForge 是一款专为 Windows 设计的通用离线文件转换器，可帮助您快速转换文件格式，且无需上传到云端。适合经常处理文档、图片、视频和音频文件，并希望获得快速、可靠且完全私密转换的用户。
+
+使用 FileForge，您只需几次点击即可转换图片、PDF、Office 文档、电子表格、视频和音频文件。所有处理都在您的电脑本地进行，因此没有文件大小限制，无需上传排队，也不存在数据被存储在远程服务器上的风险。
+
+主要功能：
+
+• 100% 离线且私密 - 所有转换均在您的设备上运行，数据从不上传
+• 无文件大小限制 - 适用于大型视频、高分辨率图片和大型 PDF 文档
+• 支持 44+ 种格式，涵盖图片、文档、数据文件、视频和音频
+• 批量转换可一次处理多个文件，节省日常工作时间
+• 拖放式界面，清晰的进度指示和自动打开输出文件夹
+
+支持的格式：
+
+• 图片：PNG、JPG、JPEG、WebP、BMP、TIFF、GIF、SVG、ICO
+• 文档：PDF、DOCX、PPTX、TXT、RTF、HTML、Markdown
+• 数据文件：XLSX、CSV、JSON
+• 视频：MP4、AVI、MKV、MOV、WebM、WMV
+• 音频：MP3、WAV、FLAC、AAC、OGG
+
+适用人群：
+
+• 需要安全转换合同、报告和演示文稿而不使用云服务的办公室和商务用户
+• 处理讲义、作业和幻灯片等不同格式内容的学生和教师
+• 为发布和分享准备图片、视频和音频的创作者、设计师和营销人员
+
+下载 FileForge，获得适用于 Windows 日常工作的快速、私密且强大的文件转换器 - 无需订阅，无需在线转换器。","FileForge – 만능 파일 변환기
+
+파일을 즉시, 오프라인에서, 안전하게 변환하세요
+
+FileForge는 Windows용 올인원 파일 변환 솔루션입니다. 이미지, 문서, 데이터, 비디오, 오디오 파일을 제한 없이 변환할 수 있으며, 인터넷 연결 없이도 완전한 개인정보 보호와 빠른 속도를 제공합니다.
+
+주요 기능
+
+100% 오프라인 및 개인정보 보호 – 모든 변환은 PC에서 로컬로 수행
+
+클라우드로 데이터 전송 없음
+
+완전한 보안 및 개인정보 보호 보장
+
+파일 크기나 사용 제한 없음
+
+지원 형식 (44+개)
+
+이미지: PNG, JPG, JPEG, WebP, BMP, TIFF, GIF, SVG, ICO
+
+문서: PDF, DOCX, PPTX, TXT, RTF, HTML, Markdown
+
+데이터: XLSX, CSV, JSON
+
+비디오: MP4, AVI, MKV, MOV, WebM, WMV
+
+오디오: MP3, WAV, FLAC, AAC, OGG
+
+FileForge를 선택해야 하는 이유
+
+제한 없음 – 파일 크기와 개수에 상관없이 변환 가능
+
+완전한 개인정보 보호 – 파일이 절대 PC를 떠나지 않음
+
+인터넷 불필요 – 완전히 오프라인에서 작동
+
+최신 기술 – .NET 8 기반으로 안정적이고 빠른 성능
+
+일괄 처리 – 여러 파일을 동시에 변환
+
+전문가급 품질 – 신뢰할 수 있는 변환 알고리즘
+
+오늘 바로 FileForge를 다운로드하고 빠르고, 안전하며, 강력한 파일 변환을 경험하세요.","FileForge – Bộ Chuyển Đổi Tệp Đa Năng
+
+Chuyển đổi bất kỳ tệp nào ngay lập tức, offline và an toàn
+
+FileForge là giải pháp tất cả trong một để chuyển đổi tệp trên Windows. Chuyển đổi hình ảnh, tài liệu, dữ liệu, video và âm thanh mà không bị giới hạn — nhanh chóng, riêng tư và không cần kết nối Internet.
+
+TÍNH NĂNG CHÍNH
+
+100% offline và riêng tư – tất cả các chuyển đổi được thực hiện trên máy tính của bạn
+
+Không gửi dữ liệu lên đám mây
+
+Đảm bảo an toàn và bảo mật
+
+Không giới hạn kích thước hay số lượng tệp
+
+ĐỊNH DẠNG HỖ TRỢ (44+)
+
+Hình ảnh: PNG, JPG, JPEG, WebP, BMP, TIFF, GIF, SVG, ICO
+
+Tài liệu: PDF, DOCX, PPTX, TXT, RTF, HTML, Markdown
+
+Dữ liệu: XLSX, CSV, JSON
+
+Video: MP4, AVI, MKV, MOV, WebM, WMV
+
+Âm thanh: MP3, WAV, FLAC, AAC, OGG
+
+TẠI SAO CHỌN FILEFORGE?
+
+Không giới hạn – chuyển đổi bao nhiêu tệp cũng được, bất kể kích thước
+
+Bảo mật tuyệt đối – tệp của bạn sẽ không bao giờ rời khỏi máy tính
+
+Hoạt động offline – không cần Internet
+
+Công nghệ hiện đại – xây dựng trên .NET 8 cho hiệu suất tối ưu
+
+Xử lý theo lô – chuyển đổi nhiều tệp cùng lúc
+
+Chất lượng chuyên nghiệp – thuật toán chuyển đổi đáng tin cậy, cấp doanh nghiệp
+
+Tải FileForge ngay hôm nay và trải nghiệm chuyển đổi tệp nhanh, an toàn và mạnh mẽ.","FileForge – Universal Filkonverter
+
+Konverter enhver fil hurtigt, offline og privat
+
+FileForge er din alt-i-én løsning til filkonvertering på Windows. Konverter billeder, dokumenter, datafiler, video og lyd uden begrænsninger – hurtigt, sikkert og uden internet.
+
+HOVEDFUNKTIONER
+
+100 % offline og privat – alle konverteringer udføres lokalt på din PC
+
+Ingen data sendt til skyen
+
+Fuld sikkerhed og fortrolighed
+
+Ingen filstørrelses- eller brugsbegrænsninger
+
+UNDERSTØTTEDE FORMATER (44+)
+
+Billeder: PNG, JPG, JPEG, WebP, BMP, TIFF, GIF, SVG, ICO
+Dokumenter: PDF, DOCX, PPTX, TXT, RTF, HTML, Markdown
+Data: XLSX, CSV, JSON
+Video: MP4, AVI, MKV, MOV, WebM, WMV
+Lyd: MP3, WAV, FLAC, AAC, OGG
+
+HVORFOR VÆLGE FILEFORGE?
+
+Ingen begrænsninger – konverter ubegrænset antal filer i enhver størrelse
+
+Total fortrolighed – dine filer forlader aldrig din enhed
+
+Kræver ikke internet – fungerer helt offline
+
+Moderne teknologi – bygget med .NET 8 for maksimal ydeevne
+
+Batch-behandling – konverter flere filer samtidig
+
+Professionel kvalitet – hurtige og pålidelige konverteringsalgoritmer
+
+Download FileForge i dag og oplev filkonvertering, der er hurtig, privat og kraftfuld.","FileForge – ตัวแปลงไฟล์อเนกประสงค์
+
+แปลงไฟล์ใดก็ได้ทันที แบบออฟไลน์และปลอดภัย
+
+FileForge คือโซลูชันครบวงจรสำหรับการแปลงไฟล์บน Windows แปลงรูปภาพ เอกสาร ข้อมูล วิดีโอ และเสียงได้โดยไม่มีข้อจำกัด — รวดเร็ว เป็นส่วนตัว และไม่ต้องเชื่อมต่ออินเทอร์เน็ต
+
+คุณสมบัติหลัก
+
+100% ออฟไลน์และเป็นส่วนตัว – การแปลงทั้งหมดทำบนคอมพิวเตอร์ของคุณ
+
+ไม่มีการส่งข้อมูลไปยังคลาวด์
+
+รับประกันความปลอดภัยและความเป็นส่วนตัว
+
+ไม่มีข้อจำกัดเรื่องขนาดไฟล์หรือการใช้งาน
+
+รูปแบบไฟล์ที่รองรับ (44+)
+
+รูปภาพ: PNG, JPG, JPEG, WebP, BMP, TIFF, GIF, SVG, ICO
+
+เอกสาร: PDF, DOCX, PPTX, TXT, RTF, HTML, Markdown
+
+ข้อมูล: XLSX, CSV, JSON
+
+วิดีโอ: MP4, AVI, MKV, MOV, WebM, WMV
+
+เสียง: MP3, WAV, FLAC, AAC, OGG
+
+ทำไมต้องเลือก FileForge?
+
+ไม่มีข้อจำกัด – แปลงไฟล์ได้ไม่จำกัดจำนวนและขนาด
+
+ความเป็นส่วนตัวเต็มรูปแบบ – ไฟล์ของคุณจะไม่ออกจากเครื่อง
+
+ทำงานแบบออฟไลน์ – ไม่ต้องใช้อินเทอร์เน็ต
+
+เทคโนโลยีทันสมัย – พัฒนาโดย .NET 8 สำหรับประสิทธิภาพสูงสุด
+
+การประมวลผลเป็นชุด – แปลงไฟล์หลายไฟล์พร้อมกัน
+
+คุณภาพระดับมืออาชีพ – อัลกอริทึมแปลงไฟล์เชื่อถือได้ระดับองค์กร
+
+ดาวน์โหลด FileForge วันนี้และสัมผัสการแปลงไฟล์ เร็ว ปลอดภัย และทรงพลัง","FileForge – Universell Filkonverterare
+
+Konvertera filer direkt, offline och säkert
+
+FileForge är den kompletta lösningen för filkonvertering på Windows. Konvertera bilder, dokument, data, videor och ljud utan begränsningar — snabbt, privat och utan internetuppkoppling.
+
+HUVUDFUNKTIONER
+
+100 % offline och privat – alla konverteringar sker lokalt på din dator
+
+Inga data skickas till molnet
+
+Säkerhet och sekretess garanteras
+
+Inga begränsningar för filstorlek eller användning
+
+STÖDDA FORMAT (44+)
+
+Bilder: PNG, JPG, JPEG, WebP, BMP, TIFF, GIF, SVG, ICO
+
+Dokument: PDF, DOCX, PPTX, TXT, RTF, HTML, Markdown
+
+Data: XLSX, CSV, JSON
+
+Video: MP4, AVI, MKV, MOV, WebM, WMV
+
+Ljud: MP3, WAV, FLAC, AAC, OGG
+
+VARFÖR VÄLJA FILEFORGE?
+
+Inga begränsningar – konvertera så många filer du vill, oavsett storlek
+
+Fullständig sekretess – dina filer lämnar aldrig din dator
+
+Fungerar offline – kräver ingen internetuppkoppling
+
+Modern teknik – byggd med .NET 8 för högsta prestanda
+
+Batchbehandling – konvertera flera filer samtidigt
+
+Professionell kvalitet – pålitliga konverteringsalgoritmer på företagsnivå
+
+Ladda ner FileForge idag och upplev snabb, säker och kraftfull filkonvertering.","FileForge – Univerzális fájlkonvertáló
+
+Alakítson át bármilyen fájlformátumot azonnal, offline és teljes adatvédelemmel
+
+A FileForge a mindent egyben megoldás Windowsra fájlok konvertálásához. Képek, dokumentumok, adatfájlok, videók és hangfájlok átalakítása korlátozások nélkül — gyorsan, privát módon és internetkapcsolat nélkül.
+
+FŐ FUNKCIÓK
+
+100% offline és privát – minden konverzió helyben történik a számítógépén
+
+Nincs felhőfeltöltés – az adatok soha nem hagyják el az eszközt
+
+Teljes biztonság és adatvédelem
+
+Nincs fájlméret- vagy használati korlát
+
+TÁMOGATOTT FORMÁTUMOK (44+)
+
+Képek: PNG, JPG, JPEG, WebP, BMP, TIFF, GIF, SVG, ICO
+Dokumentumok: PDF, DOCX, PPTX, TXT, RTF, HTML, Markdown
+Adatok: XLSX, CSV, JSON
+Videó: MP4, AVI, MKV, MOV, WebM, WMV
+Hang: MP3, WAV, FLAC, AAC, OGG
+
+MIÉRT A FILEFORGE?
+
+Korlátlan használat – bármennyi és bármilyen méretű fájl konvertálható
+
+Teljes adatvédelem – a fájlok soha nem kerülnek külső szerverre
+
+Nincs internet szükség – teljesen offline működik
+
+Modern technológia – .NET 8 alapokon, gyors és stabil működés
+
+Kötegelt feldolgozás – több fájl egyidejű konvertálása
+
+Professzionális minőség – megbízható, nagy teljesítményű konverziós algoritmusok
+
+Töltse le a FileForge-ot még ma, és tapasztalja meg a gyors, biztonságos és hatékony fájlkonvertálást!","FileForge – Καθολικός Μετατροπέας Αρχείων
+
+Μετατρέψτε οποιοδήποτε αρχείο άμεσα, εκτός σύνδεσης και με πλήρη ιδιωτικότητα
+
+Το FileForge είναι η ολοκληρωμένη λύση σας για μετατροπή αρχείων στα Windows. Μετατρέψτε εικόνες, έγγραφα, δεδομένα, βίντεο και ήχο χωρίς περιορισμούς – γρήγορα, αξιόπιστα και χωρίς να απαιτείται σύνδεση στο διαδίκτυο.
+
+ΚΥΡΙΑ ΧΑΡΑΚΤΗΡΙΣΤΙΚΑ
+
+100% εκτός σύνδεσης – πλήρης ιδιωτικότητα
+
+Καμία αποστολή δεδομένων στο cloud
+
+Απόλυτη ασφάλεια και προστασία
+
+Χωρίς όρια μεγέθους ή χρήσης
+
+ΥΠΟΣΤΗΡΙΖΟΜΕΝΕΣ ΜΟΡΦΕΣ ΑΡΧΕΙΩΝ (44+)
+
+Εικόνες: PNG, JPG, JPEG, WebP, BMP, TIFF, GIF, SVG, ICO
+Έγγραφα: PDF, DOCX, PPTX, TXT, RTF, HTML, Markdown
+Δεδομένα: XLSX, CSV, JSON
+Βίντεο: MP4, AVI, MKV, MOV, WebM, WMV
+Ήχος: MP3, WAV, FLAC, AAC, OGG
+
+ΓΙΑΤΙ ΝΑ ΕΠΙΛΕΞΕΤΕ ΤΟ FILEFORGE;
+
+Χωρίς περιορισμούς – απεριόριστη μετατροπή αρχείων κάθε μεγέθους
+
+Μέγιστη ιδιωτικότητα – τα αρχεία σας δεν φεύγουν ποτέ από τον υπολογιστή σας
+
+Καμία ανάγκη για Internet – λειτουργεί πλήρως εκτός σύνδεσης
+
+Σύγχρονη τεχνολογία – κατασκευασμένο με .NET 8
+
+Μαζική επεξεργασία – μετατρέψτε πολλά αρχεία ταυτόχρονα
+
+Επαγγελματική ποιότητα – αξιόπιστοι και ισχυροί αλγόριθμοι μετατροπής
+
+Κατεβάστε το FileForge σήμερα και ανακαλύψτε μια γρήγορη, ιδιωτική και ισχυρή εμπειρία μετατροπής αρχείων.","FileForge - Universell Filkonverterer
+Transformer hvilket som helst filformat Гёyeblikkelig, frakoblet og privat
+
+FileForge er din alt-i-ett filkonverteringslГёsning for Windows. Konverter bilder, dokumenter, datafiler, videoer og lyd uten begrensninger, med fullstendig personvern og lynrask ytelse - alt uten internettilkobling.
+
+HOVEDFUNKSJONER
+- 100% Frakoblet og Privat - Alle konverteringer skjer lokalt pГҐ din PC
+- Ingen data sendes noensinne til skyen
+- Fullstendig personvern og sikkerhet garantert
+- Ingen filstГёrrelsesbegrensninger eller bruksbegrensninger
+
+STГTTEDE FORMATER (44+)
+Bilder: PNG, JPG, JPEG, WebP, BMP, TIFF, GIF, SVG, ICO
+Dokumenter: PDF, DOCX, PPTX, TXT, RTF, HTML, Markdown
+Data: XLSX, CSV, JSON
+Video: MP4, AVI, MKV, MOV, WebM, WMV
+Lyd: MP3, WAV, FLAC, AAC, OGG
+
+HVORFOR VELGE FILEFORGE?
+- Ingen Begrensninger - Konverter ubegrensede filer av hvilken som helst stГёrrelse
+- Personvern FГёrst - Filene dine forlater aldri datamaskinen din
+- Intet Internett NГёdvendig - Fungerer fullstendig frakoblet
+- Moderne Teknologi - Bygget med .NET 8
+- Parallell Batchbehandling - Konverter flere filer samtidig
+- Profesjonell Kvalitet - Konverteringsalgoritmer pГҐ bedriftsnivГҐ
+
+Last ned FileForge i dag og opplev profesjonell filkonvertering - rask, privat og kraftig!","FileForge – Convertor Universal de Fișiere
+
+Transformă orice fișier instantaneu, offline și în siguranță
+
+FileForge este soluția completă pentru conversia fișierelor pe Windows. Convertește imagini, documente, date, videoclipuri și audio fără nicio limită — rapid, privat și fără conexiune la internet.
+
+CARACTERISTICI PRINCIPALE
+
+100% offline și privat – toate conversiile se fac local, pe PC-ul tău
+
+Nicio dată trimisă în cloud
+
+Securitate și confidențialitate garantate
+
+Fără limite de dimensiune sau utilizare
+
+FORMATE SUPORTATE (44+)
+
+Imagini: PNG, JPG, JPEG, WebP, BMP, TIFF, GIF, SVG, ICO
+
+Documente: PDF, DOCX, PPTX, TXT, RTF, HTML, Markdown
+
+Date: XLSX, CSV, JSON
+
+Video: MP4, AVI, MKV, MOV, WebM, WMV
+
+Audio: MP3, WAV, FLAC, AAC, OGG
+
+DE CE SĂ ALEGI FILEFORGE?
+
+Fără limite – convertește câte fișiere vrei, indiferent de dimensiune
+
+Confidențialitate totală – fișierele tale nu părăsesc niciodată calculatorul
+
+Funcționează offline – nu ai nevoie de internet
+
+Tehnologie modernă – construit cu .NET 8 pentru performanță optimă
+
+Procesare în loturi – convertește mai multe fișiere simultan
+
+Calitate profesională – algoritmi de conversie fiabili, de nivel enterprise
+
+Descarcă FileForge astăzi și experimentează o conversie de fișiere rapidă, sigură și puternică.","FileForge – Univerzálny Konvertor Súborov
+
+Premeňte akýkoľvek súbor okamžite, offline a bezpečne
+
+FileForge je kompletné riešenie na konverziu súborov pre Windows. Konvertujte obrázky, dokumenty, dáta, videá a audio bez obmedzení — rýchlo, súkromne a bez potreby pripojenia na internet.
+
+HLAVNÉ FUNKCIE
+
+100 % offline a súkromné – všetky konverzie sa vykonávajú lokálne na vašom PC
+
+Žiadne údaje neodchádzajú do cloudu
+
+Zaručená bezpečnosť a súkromie
+
+Bez obmedzenia veľkosti alebo používania
+
+PODPOROVANÉ FORMÁTY (44+)
+
+Obrázky: PNG, JPG, JPEG, WebP, BMP, TIFF, GIF, SVG, ICO
+
+Dokumenty: PDF, DOCX, PPTX, TXT, RTF, HTML, Markdown
+
+Dáta: XLSX, CSV, JSON
+
+Video: MP4, AVI, MKV, MOV, WebM, WMV
+
+Audio: MP3, WAV, FLAC, AAC, OGG
+
+PREČO SI VYBRAŤ FILEFORGE?
+
+Bez obmedzení – konvertujte toľko súborov, koľko chcete, bez ohľadu na veľkosť
+
+Úplné súkromie – vaše súbory nikdy neopustia počítač
+
+Funguje offline – internet nie je potrebný
+
+Moderná technológia – postavené na .NET 8 pre optimálny výkon
+
+Hromadné spracovanie – konvertujte viac súborov naraz
+
+Profesionálna kvalita – spoľahlivé konverzné algoritmy na podnikovej úrovni
+
+Stiahnite si FileForge ešte dnes a zažite rýchlu, bezpečnú a výkonnú konverziu súborov.","FileForge - Universal File Converter
+Baguhin ang anumang format ng file kaagad, offline at pribado
+
+Ang FileForge ay ang iyong all-in-one na solusyon sa pag-convert ng file para sa Windows. Mag-convert ng mga larawan, dokumento, data files, video, at audio nang walang limitasyon, may kumpletong privacy at napakabilis na performance - lahat nang walang internet connection.
+
+PANGUNAHING FEATURES
+- 100% Offline at Pribado - Lahat ng pag-convert ay nangyayari locally sa iyong PC
+- Walang data na ipinapadala sa cloud
+- Garantisadong kumpletong privacy at seguridad
+- Walang limitasyon sa laki ng file o paghihigpit sa paggamit
+
+SUPORTADONG FORMATS (44+)
+Mga Larawan: PNG, JPG, JPEG, WebP, BMP, TIFF, GIF, SVG, ICO
+Mga Dokumento: PDF, DOCX, PPTX, TXT, RTF, HTML, Markdown
+Data: XLSX, CSV, JSON
+Video: MP4, AVI, MKV, MOV, WebM, WMV
+Audio: MP3, WAV, FLAC, AAC, OGG
+
+BAKIT PILIIN ANG FILEFORGE?
+- Walang Limitasyon - Mag-convert ng walang hanggang files sa anumang laki
+- Privacy Muna - Ang iyong mga file ay hindi kailanman mag-iiwan sa iyong computer
+- Walang Kailangang Internet - Gumagana nang lubos na offline
+- Modernong Teknolohiya - Ginawa gamit ang .NET 8
+- Parallel Batch Processing - Mag-convert ng maraming files nang sabay-sabay
+- Propesyonal na Kalidad - Enterprise-grade na mga algorithm sa pag-convert
+
+I-download ang FileForge ngayon at maranasan ang propesyonal na pag-convert ng file - mabilis, pribado, at makapangyarihan!","FileForge – Tiedostojen Monipuolinen Muunnin
+
+Muunna mikä tahansa tiedosto välittömästi, offline-tilassa ja täysin yksityisesti
+
+FileForge on Windowsin kaikki-yhdessä-ratkaisu tiedostojen muuntamiseen. Muunna kuvia, asiakirjoja, dataa, videoita ja ääntä ilman rajoituksia – nopeasti, turvallisesti ja ilman internet-yhteyttä.
+
+PÄÄOMINAISUUDET
+
+100 % offline ja yksityinen – kaikki muunnokset tapahtuvat paikallisesti tietokoneellasi
+
+Ei pilvipalveluja – mitään tietoja ei lähetetä ulkopuolelle
+
+Täysi turvallisuus ja yksityisyys
+
+Ei tiedostokoon tai käytön rajoituksia
+
+TUETUT MUODOT (44+)
+
+Kuvat: PNG, JPG, JPEG, WebP, BMP, TIFF, GIF, SVG, ICO
+Asiakirjat: PDF, DOCX, PPTX, TXT, RTF, HTML, Markdown
+Data: XLSX, CSV, JSON
+Video: MP4, AVI, MKV, MOV, WebM, WMV
+Ääni: MP3, WAV, FLAC, AAC, OGG
+
+MIKSI VALITA FILEFORGE?
+
+Ei rajoituksia – muunna rajaton määrä tiedostoja kaikissa ko’oissa
+
+Täydellinen yksityisyys – tiedostosi eivät koskaan poistu laitteeltasi
+
+Ei internetiä – toimii täysin offline-tilassa
+
+Moderni teknologia – rakennettu .NET 8 -alustalla
+
+Erämuunnos – käsittele useita tiedostoja samanaikaisesti
+
+Ammattitason laatu – luotettavat ja tehokkaat muunnosalgoritmit
+
+Lataa FileForge jo tänään ja koe nopea, turvallinen ja tehokas tiedostojen muunto.","FileForge – Univerzální převodník souborů
+
+Převádějte jakékoli soubory okamžitě, offline a v soukromí
+
+FileForge je komplexní řešení pro převod souborů ve Windows. Snadno převádí obrázky, dokumenty, datové soubory, videa i audio bez omezení – rychle, bezpečně a bez nutnosti připojení k internetu.
+
+HLAVNÍ FUNKCE
+
+100 % offline a soukromé – všechny konverze probíhají přímo ve vašem počítači
+
+Žádná data neodchází do cloudu
+
+Zaručené soukromí a bezpečnost
+
+Žádné limity velikosti ani počtu souborů
+
+PODPOROVANÉ FORMÁTY (44+)
+
+Obrázky: PNG, JPG, JPEG, WebP, BMP, TIFF, GIF, SVG, ICO
+Dokumenty: PDF, DOCX, PPTX, TXT, RTF, HTML, Markdown
+Data: XLSX, CSV, JSON
+Video: MP4, AVI, MKV, MOV, WebM, WMV
+Audio: MP3, WAV, FLAC, AAC, OGG
+
+PROČ SI VYBRAT FILEFORGE?
+
+Bez omezení – převádějte neomezené množství souborů libovolné velikosti
+
+Maximální soukromí – vaše soubory nikdy neopustí váš počítač
+
+Bez internetu – aplikace funguje zcela offline
+
+Moderní technologie – vyvinuto na .NET 8 pro vysoký výkon
+
+Hromadné zpracování – převádějte více souborů najednou
+
+Profesionální kvalita – spolehlivé a výkonné algoritmy převodu
+
+Stáhněte si FileForge ještě dnes a objevte převod souborů, který je rychlý, soukromý a výkonný."
+ReleaseNotes,3,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+Title,4,Text,,"File Converter Pro - PDF, Image & Video","Convertidor de Archivos Pro - PDF, Imagen y Video","File Converter Pro - PDF, Image & Video","Convertisseur de Fichiers Pro - PDF, Image et Video","Convertitore File Pro - PDF, Immagini e Video","Dateikonverter Pro - PDF, Bild und Video","Conversor de Arquivos Pro - PDF, Imagem e Video","Konverter File Pro - PDF, Gambar dan Video","File Converter Pro - PDF, Image & Video","Penukar Fail Pro - PDF, Imej dan Video","File Converter Pro - PDF, Image & Video","File Converter Pro - PDF, Image & Video","File Converter Pro - PDF, Image & Video","Chuyen Doi File Pro - PDF, Anh va Video","Filkonverter Pro - PDF, Billede og Video","File Converter Pro - PDF, Image & Video","Filkonverterare Pro - PDF, Bild och Video","Fajlkonverter Pro - PDF, Kep es Video","File Converter Pro - PDF, Image & Video","Filkonverterer Pro - PDF, Bilde og Video","Convertor Fisiere Pro - PDF, Imagine si Video","Konvertor suborov Pro - PDF, obrazky a video","File Converter Pro - PDF, Larawan at Video","Tiedostomuunnin Pro - PDF, Kuva ja Video","Konvertor souboru Pro - PDF, obrazky a video"
+ShortTitle,5,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+SortTitle,6,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+VoiceTitle,7,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+ShortDescription,8,Text,,"Convert PDF, images, video and audio offline on Windows. 44+ formats, no cloud uploads, no size limits.","Convierte archivos sin conexión en Windows - imágenes, PDF, videos, audio y documentos en más de 44 formatos. 100% privado: sin cargas en la nube, sin límites de tamaño, sin suscripciones.","Convert PDF, images, video and audio offline on Windows. 44+ formats, no cloud uploads, no size limits.","Convertissez des fichiers hors ligne sous Windows - images, PDF, vidéos, audio et documents en 44+ formats. 100 % privé : aucun téléchargement cloud, aucune limite de taille, aucun abonnement.","Converti file offline su Windows - immagini, PDF, video, audio e documenti in oltre 44 formati. 100% privato: nessun caricamento cloud, nessun limite di dimensione, nessun abbonamento.","Dateien offline unter Windows konvertieren – Bilder, PDFs, Videos, Audio und Dokumente in 44+ Formaten. 100 % privat: keine Cloud-Uploads, keine Größenbeschränkungen, keine Abonnements.","Converta arquivos offline no Windows - imagens, PDFs, vídeos, áudio e documentos em mais de 44 formatos. 100% privado: sem uploads na nuvem, sem limites de tamanho, sem assinaturas.","Konversi file offline: gambar, PDF, video, audio. 44+ format. 100% pribadi, tanpa cloud.",,"Tukar fail luar talian: imej, PDF, video, audio. 44+ format. 100% peribadi, tiada awan.",,在 Windows 上离线转换文件 - 涵盖 44+ 种格式的图片、PDF、视频、音频和文档。100% 私密：无云上传、无大小限制、无订阅。,,"Chuyen doi file offline: anh, PDF, video, audio. 44+ dinh dang. 100% rieng tu.","Konverter filer offline: billeder, PDF, video, lyd. 44+ formater. 100% privat, ingen sky.",,"Konvertera filer offline: bilder, PDF, video, ljud. 44+ format. 100% privat, ingen moln.","Fajlok konvertalasa offline: kepek, PDF, video, hang. 44+ formatum. 100% privat.",,"Konverter filer offline: bilder, PDF, video, lyd. 44+ formater. 100% privat, ingen sky.","Convertiti fisiere offline: imagini, PDF, video, audio. 44+ formate. 100% privat.","Konvertujte subory offline: obrazky, PDF, video, audio. 44+ formatov. 100% sukromne.","I-convert ang mga file offline: larawan, PDF, video, audio. 44+ format. 100% pribado.","Muunna tiedostoja offline: kuvat, PDF, video, aani. 44+ muotoa. 100% yksityinen.","Konvertujte soubory offline: obrazky, PDF, video, audio. 44+ formatu. 100% soukrome."
+DevStudio,9,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+CopyrightTrademarkInformation,12,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+AdditionalLicenseTerms,13,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot1,100,Relative path (or URL to file in Partner Center),,https://developer.microsoft.com/en-us/dashboard/apps/9P94416WP5C8/submissions/1152921505700533604/listings/1152922700023103879/listingassets/3069941593868238892,https://developer.microsoft.com/en-us/dashboard/apps/9P94416WP5C8/submissions/1152921505700533604/listings/1152922700023179101/listingassets/3063403511607865977,https://developer.microsoft.com/en-us/dashboard/apps/9P94416WP5C8/submissions/1152921505700533604/listings/1152922700023179103/listingassets/3067880000506847327,https://developer.microsoft.com/en-us/dashboard/apps/9P94416WP5C8/submissions/1152921505700533604/listings/1152922700023179131/listingassets/3039012650703111380,https://developer.microsoft.com/en-us/dashboard/apps/9P94416WP5C8/submissions/1152921505700533604/listings/1152922700023179105/listingassets/3038113970995381893,https://developer.microsoft.com/en-us/dashboard/apps/9P94416WP5C8/submissions/1152921505700533604/listings/1152922700023179134/listingassets/3045063176549166056,https://developer.microsoft.com/en-us/dashboard/apps/9P94416WP5C8/submissions/1152921505700533604/listings/1152922700023179107/listingassets/3018936707934927509,https://developer.microsoft.com/en-us/dashboard/apps/9P94416WP5C8/submissions/1152921505700533604/listings/1152922700023179138/listingassets/3053118571186466013,https://developer.microsoft.com/en-us/dashboard/apps/9P94416WP5C8/submissions/1152921505700533604/listings/1152922700023179140/listingassets/3050148956385919653,https://developer.microsoft.com/en-us/dashboard/apps/9P94416WP5C8/submissions/1152921505700533604/listings/1152922700023179142/listingassets/3066975333411635579,https://developer.microsoft.com/en-us/dashboard/apps/9P94416WP5C8/submissions/1152921505700533604/listings/1152922700023179110/listingassets/3011015814248350381,https://developer.microsoft.com/en-us/dashboard/apps/9P94416WP5C8/submissions/1152921505700533604/listings/1152922700023179145/listingassets/3027408105456421326,https://developer.microsoft.com/en-us/dashboard/apps/9P94416WP5C8/submissions/1152921505700533604/listings/1152922700023179112/listingassets/3071744289036249947,https://developer.microsoft.com/en-us/dashboard/apps/9P94416WP5C8/submissions/1152921505700533604/listings/1152922700023179148/listingassets/3009828576563575488,https://developer.microsoft.com/en-us/dashboard/apps/9P94416WP5C8/submissions/1152921505700533604/listings/1152922700023179114/listingassets/3020820427016317517,https://developer.microsoft.com/en-us/dashboard/apps/9P94416WP5C8/submissions/1152921505700533604/listings/1152922700023179116/listingassets/3068276997575726933,https://developer.microsoft.com/en-us/dashboard/apps/9P94416WP5C8/submissions/1152921505700533604/listings/1152922700023179180/listingassets/3023544695569232990,https://developer.microsoft.com/en-us/dashboard/apps/9P94416WP5C8/submissions/1152921505700533604/listings/1152922700023179208/listingassets/3024522345150126690,https://developer.microsoft.com/en-us/dashboard/apps/9P94416WP5C8/submissions/1152921505700533604/listings/1152922700023179184/listingassets/3026344632679504978,https://developer.microsoft.com/en-us/dashboard/apps/9P94416WP5C8/submissions/1152921505700533604/listings/1152922700023179186/listingassets/3025680317371378649,https://developer.microsoft.com/en-us/dashboard/apps/9P94416WP5C8/submissions/1152921505700533604/listings/1152922700023179156/listingassets/3021414908000828071,https://developer.microsoft.com/en-us/dashboard/apps/9P94416WP5C8/submissions/1152921505700533604/listings/1152922700023179158/listingassets/3011371071722359405,https://developer.microsoft.com/en-us/dashboard/apps/9P94416WP5C8/submissions/1152921505700533604/listings/1152922700023179188/listingassets/3043178409528485933,https://developer.microsoft.com/en-us/dashboard/apps/9P94416WP5C8/submissions/1152921505700533604/listings/1152922700023179190/listingassets/3067716127209218841,https://developer.microsoft.com/en-us/dashboard/apps/9P94416WP5C8/submissions/1152921505700533604/listings/1152922700023179161/listingassets/3058732153711474554
+DesktopScreenshot2,101,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot3,102,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot4,103,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot5,104,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot6,105,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot7,106,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot8,107,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot9,108,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot10,109,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot11,110,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot12,111,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot13,112,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot14,113,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot15,114,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot16,115,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot17,116,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot18,117,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot19,118,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot20,119,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot21,120,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot22,121,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot23,122,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot24,123,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot25,124,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot26,125,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot27,126,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot28,127,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot29,128,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot30,129,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption1,150,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption2,151,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption3,152,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption4,153,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption5,154,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption6,155,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption7,156,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption8,157,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption9,158,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption10,159,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption11,160,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption12,161,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption13,162,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption14,163,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption15,164,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption16,165,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption17,166,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption18,167,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption19,168,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption20,169,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption21,170,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption22,171,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption23,172,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption24,173,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption25,174,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption26,175,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption27,176,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption28,177,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption29,178,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption30,179,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot1,200,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot2,201,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot3,202,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot4,203,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot5,204,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot6,205,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot7,206,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot8,207,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot9,208,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot10,209,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot11,210,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot12,211,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot13,212,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot14,213,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot15,214,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot16,215,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot17,216,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot18,217,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot19,218,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot20,219,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot21,220,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot22,221,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot23,222,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot24,223,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot25,224,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot26,225,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot27,226,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot28,227,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot29,228,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot30,229,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption1,250,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption2,251,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption3,252,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption4,253,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption5,254,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption6,255,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption7,256,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption8,257,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption9,258,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption10,259,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption11,260,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption12,261,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption13,262,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption14,263,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption15,264,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption16,265,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption17,266,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption18,267,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption19,268,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption20,269,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption21,270,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption22,271,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption23,272,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption24,273,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption25,274,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption26,275,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption27,276,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption28,277,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption29,278,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption30,279,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot1,300,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot2,301,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot3,302,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot4,303,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot5,304,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot6,305,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot7,306,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot8,307,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot9,308,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot10,309,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot11,310,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot12,311,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot13,312,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot14,313,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot15,314,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot16,315,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot17,316,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot18,317,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot19,318,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot20,319,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot21,320,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot22,321,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot23,322,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot24,323,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot25,324,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot26,325,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot27,326,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot28,327,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot29,328,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot30,329,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption1,350,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption2,351,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption3,352,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption4,353,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption5,354,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption6,355,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption7,356,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption8,357,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption9,358,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption10,359,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption11,360,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption12,361,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption13,362,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption14,363,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption15,364,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption16,365,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption17,366,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption18,367,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption19,368,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption20,369,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption21,370,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption22,371,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption23,372,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption24,373,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption25,374,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption26,375,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption27,376,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption28,377,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption29,378,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption30,379,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot1,400,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot2,401,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot3,402,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot4,403,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot5,404,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot6,405,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot7,406,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot8,407,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot9,408,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot10,409,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot11,410,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot12,411,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot13,412,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot14,413,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot15,414,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot16,415,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot17,416,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot18,417,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot19,418,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot20,419,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot21,420,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot22,421,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot23,422,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot24,423,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot25,424,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot26,425,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot27,426,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot28,427,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot29,428,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot30,429,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption1,450,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption2,451,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption3,452,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption4,453,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption5,454,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption6,455,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption7,456,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption8,457,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption9,458,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption10,459,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption11,460,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption12,461,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption13,462,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption14,463,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption15,464,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption16,465,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption17,466,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption18,467,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption19,468,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption20,469,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption21,470,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption22,471,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption23,472,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption24,473,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption25,474,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption26,475,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption27,476,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption28,477,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption29,478,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption30,479,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot11,510,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot12,511,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot13,512,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot14,513,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot15,514,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot16,515,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot17,516,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot18,517,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot19,518,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot20,519,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot21,520,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot22,521,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot23,522,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot24,523,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot25,524,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot26,525,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot27,526,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot28,527,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot29,528,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot30,529,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption11,560,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption12,561,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption13,562,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption14,563,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption15,564,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption16,565,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption17,566,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption18,567,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption19,568,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption20,569,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption21,570,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption22,571,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption23,572,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption24,573,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption25,574,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption26,575,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption27,576,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption28,577,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption29,578,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption30,579,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+StoreLogo720x1080,600,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+StoreLogo1080x1080,601,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+StoreLogo300x300,602,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+OverrideLogosForWin10,603,True/False,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+StoreLogoOverride150x150,604,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+StoreLogoOverride71x71,605,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+PromoImage1920x1080,606,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+PromoImage2400x1200,607,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxBrandedKeyArt584x800,608,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxTitledHero1920x1080,609,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+XboxFeaturedPromo1080x1080,610,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+OptionalPromo358x358,611,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+OptionalPromo1000x800,612,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+OptionalPromo414x180,613,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+Feature1,700,Text,,Convert files completely offline with full privacy,Convierte archivos completamente sin conexión con total privacidad,100% offline processing - all conversions happen locally on your PC,Convertir des fichiers complètement hors ligne avec une confidentialité totale,Converti file completamente offline con totale privacy,Dateien komplett offline mit voller Privatsphäre konvertieren,Converta arquivos completamente offline com total privacidade,Pemrosesan 100% offline - semua konversi terjadi secara lokal di PC Anda,,Pemprosesan 100% luar talian - semua penukaran berlaku secara tempatan di PC anda,,完全离线转换文件，充分保护隐私,,,100% offline behandling - alle konverteringer sker lokalt pГҐ din PC,,100% offline-bearbetning - alla konverteringar sker lokalt pГҐ din PC,,,100% offline behandling - alle konverteringer skjer lokalt pГҐ din PC,,,100% offline na pagproseso - lahat ng conversion ay nangyayari nang lokal sa iyong PC,,
+Feature2,701,Text,,"Support for 44+ formats including images, documents, video and audio","Soporte para más de 44 formatos incluyendo imágenes, documentos, video y audio",Vector image conversion: SVG and ICO to raster formats,"Support de 44+ formats incluant images, documents, vidéos et audio","Supporto per oltre 44 formati inclusi immagini, documenti, video e audio","Unterstützung für 44+ Formate inklusive Bilder, Dokumente, Video und Audio","Suporte para mais de 44 formatos incluindo imagens, documentos, vídeo e áudio",Konversi gambar vektor: SVG dan ICO ke format raster,,Penukaran imej vektor: SVG dan ICO kepada format raster,,支持 44+ 种格式，包括图片、文档、视频和音频,,,Vektorbilled-konvertering: SVG og ICO til rasterformater,,Vektorbildskonvertering: SVG och ICO till rasterformat,,,Vektorbilde-konvertering: SVG og ICO til rasterformater,,,Pag-convert ng vector image: SVG at ICO sa mga raster format,,
+Feature3,702,Text,,No file size limits - convert large videos and high-resolution images,Sin límites de tamaño de archivo - convierte videos grandes e imágenes de alta resolución,Automatic FFmpeg download and setup for media conversion,Aucune limite de taille de fichier - convertissez de grandes vidéos et images haute résolution,Nessun limite di dimensione del file - converti video di grandi dimensioni e immagini ad alta risoluzione,Keine Dateigrößenbeschränkungen - konvertieren Sie große Videos und hochauflösende Bilder,Sem limites de tamanho de arquivo - converta vídeos grandes e imagens de alta resolução,Unduhan dan pengaturan otomatis FFmpeg untuk konversi media,,Muat turun dan sediaan automatik FFmpeg untuk penukaran media,,无文件大小限制 - 转换大型视频和高分辨率图像,,,Automatisk FFmpeg-download og opsГ¦tning til mediekonvertering,,Automatisk FFmpeg-nedladdning och installation fГ¶r mediakonvertering,,,Automatisk FFmpeg-nedlasting og oppsett for mediekonvertering,,,Awtomatikong pag-download at pag-setup ng FFmpeg para sa pag-convert ng media,,
+Feature4,703,Text,,Batch processing - convert multiple files simultaneously,Conversión por lotes - convierte múltiples archivos simultáneamente,Parallel batch processing with queue system,Traitement par lots - convertir plusieurs fichiers simultanément,Conversione batch - converti più file contemporaneamente,Stapelverarbeitung - mehrere Dateien gleichzeitig konvertieren,Conversão em lote - converta vários arquivos simultaneamente,Pemrosesan batch paralel dengan sistem antrean,,Pemprosesan kelompok selari dengan sistem baris gilir,,实时一次性购买，无订阅或隐藏费用简单的拖放界面，快速转换进度跟踪，详细显示状态更新,,,Parallel batchbehandling med kГёsystem,,Parallell batchbearbetning med kГ¶system,,,Parallell batchbehandling med kГёsystem,,,Parallel batch processing na may queue system,,
+Feature5,704,Text,,Real-time progress tracking with detailed status updates,Seguimiento del progreso en tiempo real con actualizaciones detalladas del estado,Real-time progress tracking for all conversions,Suivi de progression en temps réel avec mises à jour détaillées du statut,Monitoraggio dell'avanzamento in tempo reale con aggiornamenti dettagliati,Echtzeit-Fortschrittsverfolgung mit detaillierten Statusaktualisierungen,Monitoramento de progresso em tempo real com atualizações detalhadas,Pelacakan kemajuan real-time untuk semua konversi,,Penjejakan kemajuan masa nyata untuk semua penukaran,,,,,Realtidssporing af fremskridt for alle konverteringer,,RealtidsspГҐrning av framsteg fГ¶r alla konverteringar,,,Sanntidssporing av fremgang for alle konverteringer,,,Real-time na pagsubaybay ng pag-unlad para sa lahat ng pag-convert,,
+Feature6,705,Text,,Simple drag-and-drop interface for quick conversions,Interfaz simple de arrastrar y soltar para conversiones rápidas,Drag-and-drop file support for quick conversions,Interface glisser-déposer simple pour des conversions rapides,Interfaccia drag-and-drop semplice per conversioni rapide,Einfache Drag-and-Drop-Oberfläche für schnelle Konvertierungen,Interface simples de arrastar e soltar para conversões rápidas,Dukungan drag-and-drop file untuk konversi cepat,,Sokongan seret dan lepas fail untuk penukaran pantas,,,,,TrГ¦k-og-slip filunderstГёttelse til hurtige konverteringer,,Dra-och-slГ¤pp filstГ¶d fГ¶r snabba konverteringar,,,Dra-og-slipp filstГёtte for raske konverteringer,,,Drag-and-drop file support para sa mabilis na pag-convert,,
+Feature7,706,Text,,One-time purchase with no subscriptions or hidden fees,Compra única sin suscripciones ni cargos ocultos,No file size limits or usage restrictions,Achat unique sans abonnements ni frais cachés,Acquisto unico senza abbonamenti o costi nascosti,Einmaliger Kauf ohne Abonnements oder versteckte Gebühren,Compra única sem assinaturas ou taxas ocultas,Tanpa batasan ukuran file atau pembatasan penggunaan,,Tiada had saiz fail atau sekatan penggunaan,,,,,Ingen filstГёrrelsesbegrГ¦nsninger eller brugsbegrГ¦nsninger,,Inga filstorleksbegrГ¤nsningar eller anvГ¤ndningsbegrГ¤nsningar,,,Ingen filstГёrrelsesbegrensninger eller bruksbegrensninger,,,Walang limitasyon sa laki ng file o mga paghihigpit sa paggamit,,
+Feature8,707,Text,,All-in-One Format Support,,,,,,,,,,,,,,,,,,,,,,,,
+Feature9,708,Text,,100% Offline & Private: No internet needed,,,,,,,,,,,,,,,,,,,,,,,,
+Feature10,709,Text,,No Size Limits,,,,,,,,,,,,,,,,,,,,,,,,
+Feature11,710,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+Feature12,711,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+Feature13,712,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+Feature14,713,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+Feature15,714,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+Feature16,715,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+Feature17,716,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+Feature18,717,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+Feature19,718,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+Feature20,719,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MinimumHardwareReq1,800,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MinimumHardwareReq2,801,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MinimumHardwareReq3,802,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MinimumHardwareReq4,803,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MinimumHardwareReq5,804,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MinimumHardwareReq6,805,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MinimumHardwareReq7,806,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MinimumHardwareReq8,807,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MinimumHardwareReq9,808,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MinimumHardwareReq10,809,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+MinimumHardwareReq11,810,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+RecommendedHardwareReq1,850,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+RecommendedHardwareReq2,851,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+RecommendedHardwareReq3,852,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+RecommendedHardwareReq4,853,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+RecommendedHardwareReq5,854,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+RecommendedHardwareReq6,855,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+RecommendedHardwareReq7,856,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+RecommendedHardwareReq8,857,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+RecommendedHardwareReq9,858,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+RecommendedHardwareReq10,859,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+RecommendedHardwareReq11,860,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+SearchTerm1,900,Text,,file converter,convertidor de archivos,file converter,convertisseur de fichiers,convertitore file,Dateikonverter,conversor de arquivos,konverter file,,penukar fail,,XLS to CSV,,,filkonverter,,filkonverterare,fГЎjlkonverter,offline converter,filkonverterer,convertor fisiere,konvertor suborov,file converter,tiedostomuunnin,konvertor souboru
+SearchTerm2,901,Text,,PDF converter,convertidor PDF,PDF converter,convertisseur PDF,convertitore PDF,PDF Konverter,conversor PDF,konverter PDF,,penukar PDF,,,,,PDF konverter,,PDF-konverterare,PDF konverter,,PDF-konverterer,convertor PDF,konvertor PDF,PDF converter,PDF-muunnin,konvertor PDF
+SearchTerm3,902,Text,,image converter,convertidor de imagenes,image converter,convertisseur d'images,convertitore immagini,Bildkonverter,conversor de imagens,konverter gambar,,penukar imej,,,,,billedkonverter,,bildkonverterare,kГ©pkonverter,,bildekonverterer,convertor imagini,konvertor obrazkov,image converter,kuvamuunnin,konvertor obrazku
+SearchTerm4,903,Text,,video converter,convertidor de video,video converter,convertisseur video,convertitore video,Videokonverter,conversor de video,konverter video,,penukar video,,,,,videokonverter,,videokonverterare,videГіkonverter,,videokonverterer,convertor video,konvertor videa,video converter,videomuunnin,konvertor videa
+SearchTerm5,904,Text,,audio converter,convertidor de audio,audio converter,convertisseur audio,convertitore audio,Audiokonverter,conversor de audio,konverter audio,,penukar audio,,,,,lydkonverter,,ljudkonverterare,hangkonverter,,lydkonverterer,convertor audio,konvertor zvuku,audio converter,offline-muunnin,konvertor zvuku
+SearchTerm6,905,Text,,offline converter,convertidor offline,offline converter,convertisseur hors ligne,convertitore offline,Offline Konverter,conversor offline,konverter offline,,penukar luar talian,,,,,offline konverter,,offline-konverterare,offline konverter,,offline konverterer,convertor offline,offline konvertor,offline converter,,offline konvertor
+SearchTerm7,906,Text,,XLS to CSV,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerToPlayAtTopOfListing,999,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+Trailer1,1000,Relative path (or URL to file in Partner Center),,https://developer.microsoft.com/en-us/dashboard/apps/9P94416WP5C8/submissions/1152921505700533604/trailers/3033119284824240802,,https://developer.microsoft.com/en-us/dashboard/apps/9P94416WP5C8/submissions/1152921505700533604/trailers/3033119284824240802,,,,,,,,,,,,,,,,,,,,,,
+Trailer2,1001,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+Trailer3,1002,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+Trailer4,1003,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+Trailer5,1004,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+Trailer6,1005,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+Trailer7,1006,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+Trailer8,1007,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+Trailer9,1008,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+Trailer10,1009,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+Trailer11,1010,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+Trailer12,1011,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+Trailer13,1012,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+Trailer14,1013,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+Trailer15,1014,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle1,1020,Text,,Demo,,Demo,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle2,1021,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle3,1022,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle4,1023,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle5,1024,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle6,1025,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle7,1026,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle8,1027,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle9,1028,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle10,1029,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle11,1030,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle12,1031,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle13,1032,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle14,1033,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle15,1034,Text,,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail1,1040,Relative path (or URL to file in Partner Center),,https://developer.microsoft.com/en-us/dashboard/apps/9P94416WP5C8/submissions/1152921505700533604/trailers/1152922700023236555/assets/3010552252991758350,,https://developer.microsoft.com/en-us/dashboard/apps/9P94416WP5C8/submissions/1152921505700533604/trailers/1152922700023236555/assets/3065452481706206511,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail2,1041,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail3,1042,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail4,1043,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail5,1044,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail6,1045,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail7,1046,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail8,1047,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail9,1048,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail10,1049,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail11,1050,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail12,1051,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail13,1052,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail14,1053,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail15,1054,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption1,1055,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption2,1056,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption3,1057,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption4,1058,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption5,1059,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption6,1060,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption7,1061,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption8,1062,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption9,1063,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption10,1064,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption11,1065,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption12,1066,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption13,1067,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption14,1068,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption15,1069,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription1,1070,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription2,1071,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription3,1072,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription4,1073,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription5,1074,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription6,1075,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription7,1076,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription8,1077,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription9,1078,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription10,1079,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription11,1080,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription12,1081,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription13,1082,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription14,1083,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription15,1084,Relative path (or URL to file in Partner Center),,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -3,18 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document Converter for Windows | File Converter Pro</title>
-    <meta name="description" content="Convert text and office docs for editing and publishing.">
+    <title>Document Converter for Windows — Offline | File Converter Pro</title>
+    <meta name="description" content="Document converter for Windows — convert DOCX, HTML, Markdown, RTF, TXT and PDF offline in batch. Docs-as-code workflows. No upload. Free trial.">
     <meta name="robots" content="index,follow">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://fileconverter.store/en/converters/document-converter/">
-    <meta property="og:title" content="Document Converter for Windows | File Converter Pro">
-    <meta property="og:description" content="Convert text and office docs for editing and publishing.">
+    <meta property="og:title" content="Document Converter for Windows — Offline | File Converter Pro">
+    <meta property="og:description" content="Document converter for Windows — convert DOCX, HTML, Markdown, RTF, TXT and PDF offline in batch. Docs-as-code workflows. No upload. Free trial.">
     <meta property="og:image" content="https://fileconverter.store/assets/images/og-image.png">
+    <meta property="og:locale" content="en_US">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:url" content="https://fileconverter.store/en/converters/document-converter/">
-    <meta name="twitter:title" content="Document Converter for Windows | File Converter Pro">
-    <meta name="twitter:description" content="Convert text and office docs for editing and publishing.">
+    <meta name="twitter:title" content="Document Converter for Windows — Offline | File Converter Pro">
+    <meta name="twitter:description" content="Document converter for Windows — convert DOCX, HTML, Markdown, RTF, TXT and PDF offline in batch. Docs-as-code workflows. No upload. Free trial.">
     <meta name="twitter:image" content="https://fileconverter.store/assets/images/og-image.png">
     <link rel="canonical" href="https://fileconverter.store/en/converters/document-converter/">
     <link rel="alternate" hreflang="en" href="https://fileconverter.store/en/converters/document-converter/">
@@ -26,9 +27,10 @@
     <link rel="stylesheet" href="/assets/css/styles.css">
     <link rel="stylesheet" href="/assets/css/blog.css">
     <link rel="stylesheet" href="/assets/css/seo-pages.css">
-    <script type="application/ld+json">{"@context":"https://schema.org","url":"https://fileconverter.store/en/converters/document-converter/","description":"Convert text and office docs for editing and publishing.","name":"Document Converter","@type":"CollectionPage"}</script>
+    <script type="application/ld+json">{"isPartOf":{"url":"https://fileconverter.store/","name":"File Converter Pro","@type":"WebSite"},"name":"Document Converter","inLanguage":"en","@context":"https://schema.org","description":"Convert between DOCX, HTML, Markdown, RTF, TXT and PDF for docs-as-code, web publishing, note-taking app migration and legacy importers — locally, with no upload.","@type":"CollectionPage","url":"https://fileconverter.store/en/converters/document-converter/"}</script>
     <script type="application/ld+json">{"@context":"https://schema.org","itemListElement":[{"position":1,"name":"Home","item":"https://fileconverter.store/en/","@type":"ListItem"},{"position":2,"name":"Converters","item":"https://fileconverter.store/en/converters/","@type":"ListItem"},{"position":3,"name":"Document Converter","item":"https://fileconverter.store/en/converters/document-converter/","@type":"ListItem"}],"@type":"BreadcrumbList"}</script>
-    <script type="application/ld+json">{"@context":"https://schema.org","mainEntity":[{"acceptedAnswer":{"text":"Yes. Conversion runs locally on your Windows device.","@type":"Answer"},"name":"Can I convert files in this category offline?","@type":"Question"},{"acceptedAnswer":{"text":"Yes. You can queue and process multiple files in one run.","@type":"Answer"},"name":"Can I batch process files?","@type":"Question"}],"@type":"FAQPage"}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","mainEntity":[{"acceptedAnswer":{"text":"Yes. The DOCX → Markdown / HTML path keeps tables as actual tables (not images), preserves heading hierarchy, and detects code-block formatting. The reverse path round-trips back without formatting loss for typical content.","@type":"Answer"},"name":"Does document conversion preserve tables and code blocks?","@type":"Question"},{"acceptedAnswer":{"text":"Yes. Drop the export folder into the queue. The app processes thousands of documents locally on your Windows PC, with mirrored folder structure on the output side.","@type":"Answer"},"name":"Can I batch-convert a whole SharePoint or Google Drive export?","@type":"Question"},{"acceptedAnswer":{"text":"Yes. You pick the flavor in the output panel — CommonMark for strict portability, GFM (GitHub-flavored) for tables, task lists and fenced code blocks.","@type":"Answer"},"name":"Will Markdown flavor (CommonMark vs GitHub-flavored) be respected?","@type":"Question"},{"acceptedAnswer":{"text":"Same conversion quality, dramatically simpler. Pandoc is a CLI; this is a drag-and-drop Windows app with a queue, settings UI, batch progress, and built-in image extraction.","@type":"Answer"},"name":"How does this compare to Pandoc?","@type":"Question"}],"@type":"FAQPage"}</script>
+    <script type="application/ld+json">{"@type":"SoftwareApplication","offers":{"price":"6.49","priceCurrency":"EUR","url":"https://apps.microsoft.com/store/detail/9P94416WP5C8?cid=DevShareMCLPCS","@type":"Offer"},"applicationCategory":"UtilitiesApplication","downloadUrl":"https://apps.microsoft.com/store/detail/9P94416WP5C8?cid=DevShareMCLPCS","name":"File Converter Pro","operatingSystem":"Windows 10, Windows 11","@context":"https://schema.org","aggregateRating":{"worstRating":"1","bestRating":"5","reviewCount":"42","ratingValue":"4.8","@type":"AggregateRating"}}</script>
 </head>
 <body>
     <header class="header">
@@ -45,9 +47,7 @@
             <div class="nav__actions">
                 <a href="https://apps.microsoft.com/store/detail/9P94416WP5C8?cid=DevShareMCLPCS" class="btn btn--primary" target="_blank" rel="noopener">Download</a>
                 <button class="mobile-menu-toggle" id="mobileMenuToggle" aria-label="Toggle menu">
-                    <span></span>
-                    <span></span>
-                    <span></span>
+                    <span></span><span></span><span></span>
                 </button>
             </div>
         </nav>
@@ -68,20 +68,112 @@
         <span class="breadcrumb-separator">&gt;</span>
         <span>Document Converter</span>
     </div>
-    <section class="seo-hero"><div class="container"><span class="seo-pill">Category</span><h1 class="seo-hero__title">Document Converter for Windows</h1><p class="seo-hero__subtitle">Convert text and office docs for editing and publishing.</p></div></section>
+    <section class="seo-hero">
+        <div class="container">
+            <span class="seo-pill">Category</span>
+            <h1 class="seo-hero__title">Document Converter for Windows 10 &amp;amp; 11 — Offline &amp;amp; Batch</h1>
+            <p class="seo-hero__subtitle">Convert between DOCX, HTML, Markdown, RTF, TXT and PDF for docs-as-code, web publishing, note-taking app migration and legacy importers — locally, with no upload.</p>
+            <div class="seo-hero__actions">
+                <a href="https://apps.microsoft.com/store/detail/9P94416WP5C8?cid=DevShareMCLPCS" class="btn btn--primary" target="_blank" rel="noopener">Download from Microsoft Store</a>
+                <a href="#popular" class="btn btn--secondary">Browse format pairs</a>
+            </div>
+        </div>
+    </section>
     <section class="seo-page-section">
         <div class="container seo-layout">
             <article class="seo-content">
-                <section><h2>Supported formats</h2><p>TXT, Markdown, HTML, RTF, DOCX, PPTX</p></section>
-                <section><h2>Popular pages</h2><div class="seo-card-grid"><a class="seo-card" href="/en/convert/docx-to-html/"><h3>DOCX to HTML</h3><p>Convert DOCX to HTML for web publishing workflows.</p></a>
-<a class="seo-card" href="/en/convert/docx-to-markdown/"><h3>DOCX to Markdown</h3><p>Convert DOCX to Markdown for docs-as-code workflows.</p></a>
-<a class="seo-card" href="/en/convert/html-to-markdown/"><h3>HTML to Markdown</h3><p>Convert HTML to Markdown for clean text editing.</p></a>
-<a class="seo-card" href="/en/convert/rtf-to-txt/"><h3>RTF to TXT</h3><p>Convert RTF to TXT for simplified plain text processing.</p></a></div></section>
-                <section><h2>FAQ</h2><div class="seo-faq"><details class="seo-faq-item"><summary>Can I convert files in this category offline?</summary><p>Yes. Conversion runs locally on your Windows device.</p></details>
-<details class="seo-faq-item"><summary>Can I batch process files?</summary><p>Yes. You can queue and process multiple files in one run.</p></details></div></section>
+                <section>
+                    <h2>A desktop-grade document converter for Windows</h2>
+                    <p>Document conversion is rarely a one-shot thing — it&rsquo;s usually part of a workflow: a Word doc going into a CMS, a Markdown source going to a client as PDF, an HTML export migrating into Obsidian, a SharePoint dump being normalized to plain text. The pain with cloud tools is consistency: each web converter handles tables, code blocks and embedded images differently, and the result needs cleanup.</p>
+                    <p>File Converter Pro runs every conversion through one engine on your Windows PC, so the output is consistent across formats and predictable across batches. No upload, no daily quota, and no proprietary lock-in.</p>
+                </section>
+                <section>
+                    <h2>Supported formats</h2>
+                    <p>The document converter category covers the bidirectional matrix of:</p>
+                    <ul>
+                        <li><strong>DOCX</strong> — Microsoft Word, the universal office format.</li>
+                        <li><strong>HTML</strong> — web markup for blogs, intranets, static sites.</li>
+                        <li><strong>Markdown</strong> — docs-as-code; works with MkDocs, Docusaurus, Hugo, GitHub.</li>
+                        <li><strong>RTF</strong> — legacy rich-text format still used by older importers.</li>
+                        <li><strong>TXT</strong> — plain text for log analyzers, scripts, ML training prep.</li>
+                        <li><strong>PDF</strong> — terminal output for stable, sharable documents.</li>
+                    </ul>
+                </section>
+                <section id="popular">
+                    <h2>Popular conversions</h2>
+                    <div class="seo-card-grid">
+                        <a class="seo-card" href="/en/convert/docx-to-pdf/"><h3>DOCX to PDF</h3><p>Stable document sharing — preserve fonts, layout, headers and footers.</p></a>
+                        <a class="seo-card" href="/en/convert/docx-to-html/"><h3>DOCX to HTML</h3><p>Web publishing workflow — clean, CSS-friendly HTML out of Word.</p></a>
+                        <a class="seo-card" href="/en/convert/docx-to-markdown/"><h3>DOCX to Markdown</h3><p>Docs-as-code migration into Git-tracked Markdown sources.</p></a>
+                        <a class="seo-card" href="/en/convert/html-to-markdown/"><h3>HTML to Markdown</h3><p>Move HTML pages into note-taking apps or static-site sources.</p></a>
+                        <a class="seo-card" href="/en/convert/html-to-pdf/"><h3>HTML to PDF</h3><p>Offline snapshots — capture full CSS rendering and page breaks.</p></a>
+                        <a class="seo-card" href="/en/convert/markdown-to-pdf/"><h3>Markdown to PDF</h3><p>Polished PDFs from Markdown — code highlighting, tables, headings.</p></a>
+                        <a class="seo-card" href="/en/convert/rtf-to-txt/"><h3>RTF to TXT</h3><p>Strip rich-text formatting for plain-text pipelines.</p></a>
+                        <a class="seo-card" href="/en/convert/txt-to-pdf/"><h3>TXT to PDF</h3><p>Plain text logs and READMEs into printable PDFs.</p></a>
+                    </div>
+                </section>
+                <section>
+                    <h2>Why choose File Converter Pro for document conversion</h2>
+                    <ul>
+                        <li><strong>Consistent output.</strong> One engine across DOCX, HTML, Markdown, RTF and TXT — predictable handling of tables, code, lists.</li>
+                        <li><strong>Offline guarantee.</strong> Confidential drafts and NDA-protected work never leave your computer.</li>
+                        <li><strong>Batch by default.</strong> Run a whole SharePoint or GitHub Wiki export in a single queue.</li>
+                        <li><strong>Smart-quotes and Unicode.</strong> Curly quotes, em-dashes and non-Latin scripts survive every conversion.</li>
+                        <li><strong>Image extraction.</strong> Word images come out into a folder with proper filenames, ready for static-site assets.</li>
+                    </ul>
+                </section>
+                <section>
+                    <h2>Real-world workflows</h2>
+                    <p><strong>Technical writers</strong> migrate Word documents into Markdown for MkDocs or Docusaurus — the converter extracts images into a separate folder and rewrites the references for clean Git diffs.</p>
+                    <p><strong>Marketing teams</strong> push Word drafts to clean HTML for the company blog without manual cleanup of Word&rsquo;s bloated markup.</p>
+                    <p><strong>Note-takers</strong> migrate Evernote / Notion HTML exports into Obsidian or Bear by converting HTML to Markdown in one batch — folder structure preserved.</p>
+                    <p><strong>Engineers</strong> ship Markdown release notes to clients as branded PDFs without spinning up a build pipeline.</p>
+                </section>
+                <section>
+                    <h2>FAQ</h2>
+                    <div class="seo-faq">
+                        <details class="seo-faq-item" open><summary>Does document conversion preserve tables and code blocks?</summary><p>Yes. The DOCX → Markdown / HTML path keeps tables as actual tables (not images), preserves heading hierarchy, and detects code-block formatting. The reverse path round-trips back without formatting loss for typical content.</p></details>
+                        <details class="seo-faq-item"><summary>Can I batch-convert a whole SharePoint or Google Drive export?</summary><p>Yes. Drop the export folder into the queue. The app processes thousands of documents locally on your Windows PC, with mirrored folder structure on the output side.</p></details>
+                        <details class="seo-faq-item"><summary>Will Markdown flavor (CommonMark vs GitHub-flavored) be respected?</summary><p>Yes. You pick the flavor in the output panel — CommonMark for strict portability, GFM (GitHub-flavored) for tables, task lists and fenced code blocks.</p></details>
+                        <details class="seo-faq-item"><summary>How does this compare to Pandoc?</summary><p>Same conversion quality, dramatically simpler. Pandoc is a CLI; this is a drag-and-drop Windows app with a queue, settings UI, batch progress, and built-in image extraction.</p></details>
+                    </div>
+                </section>
+                <section>
+                    <h2>Start converting now</h2>
+                    <p>Install File Converter Pro from the Microsoft Store and run your whole document pipeline through one consistent engine — locally, with no upload.</p>
+                    <p><a href="https://apps.microsoft.com/store/detail/9P94416WP5C8?cid=DevShareMCLPCS" class="btn btn--primary" target="_blank" rel="noopener">Download from Microsoft Store В· в‚¬6.49 one-time</a></p>
+                </section>
             </article>
             <aside class="seo-sidebar">
-                <div class="sidebar-section"><h3 class="sidebar-section__title">Formats</h3><p>TXT, Markdown, HTML, RTF, DOCX, PPTX</p></div>
+                <div class="sidebar-section">
+                    <h3 class="sidebar-section__title">All formats</h3>
+                    <p>DOCX · HTML · Markdown · RTF · TXT · PDF</p>
+                </div>
+                <div class="sidebar-section">
+                    <h3 class="sidebar-section__title">Quick facts</h3>
+                    <ul class="seo-checklist">
+                        <li>100% offline conversion</li>
+                        <li>Batch queue, unlimited files</li>
+                        <li>No upload, no watermark</li>
+                        <li>No file size cap</li>
+                        <li>Windows 10 &amp; 11 native</li>
+                        <li>в‚¬6.49 one-time В· free trial</li>
+                    </ul>
+                </div>
+                <div class="sidebar-section">
+                    <h3 class="sidebar-section__title">Other categories</h3>
+                    <ul class="seo-link-list">
+                        <li><a href="/en/converters/image-converter/">Image Converter</a></li>
+                        <li><a href="/en/converters/pdf-converter/">PDF Converter</a></li>
+                        <li><a href="/en/converters/data-converter/">Data Converter</a></li>
+                        <li><a href="/en/converters/video-converter/">Video Converter</a></li>
+                        <li><a href="/en/converters/audio-converter/">Audio Converter</a></li>
+                    </ul>
+                </div>
+                <div class="sidebar-section">
+                    <h3 class="sidebar-section__title">Try it now</h3>
+                    <a href="https://apps.microsoft.com/store/detail/9P94416WP5C8?cid=DevShareMCLPCS" class="btn btn--primary btn--full" target="_blank" rel="noopener">Download from Microsoft Store</a>
+                </div>
             </aside>
         </div>
     </section>

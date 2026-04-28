@@ -24,3 +24,9 @@ build/
 # Temporary files
 *.tmp
 .cache/
+
+# SEO working notes (not for prod)
+seo/
+notpush/
+
+scripts/
